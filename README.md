@@ -1,9 +1,6 @@
 # uL Vias – Blish HUD Marker Pack
-[![GitHub release](https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/REPO_NAME?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_GITHUB_USERNAME/REPO_NAME/total?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/releases)
 [![Blish HUD – Pathing](https://img.shields.io/badge/Blish%20HUD-Pathing-blue?style=for-the-badge)](https://blishhud.com/modules/?module=bh.community.pathing)
 [![Game – Guild Wars 2](https://img.shields.io/badge/Game-Guild%20Wars%202-red?style=for-the-badge)](https://www.guildwars2.com/)
-[![License](https://img.shields.io/github/license/YOUR_GITHUB_USERNAME/REPO_NAME?style=for-the-badge)](LICENSE)
 
 **uL Vias** is a Blish HUD Pathing marker pack designed as a **living trail** for the **Underground Legends** community and anyone else who wants high‑signal, low‑friction paths for leveling and farming in Guild Wars 2.  
 
