@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+██╔══██╗██║   ██║██║     ██║ ██╔╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██████╔╝██║   ██║██║     █████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔═██╗     ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██╗    ██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulbulkfarm.shelp" traildata="trails/res/res-uL_bulk-shelp.trl" texture="data/farm/farm_trail.png" mapid="20" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulresfarm.ulbulkfarm.shelp" mapid="20" xpos="324.3189" ypos="30.61846" zpos="233.558" guid="hI5VE/uip0iOVojVsAykiQ==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4.5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-shelp.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.shelp" mapid="20" xpos="327.9473" ypos="28.60214" zpos="245.5878" guid="nfUaIXuklkuohhWZxiGGMA==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+	</pois>
+</overlaydata>
+
+

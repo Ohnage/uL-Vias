@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██╗      █████╗ ██╗  ██╗    ███████╗ █████╗ ██████╗ ███╗   ███╗
+██╔════╝██║     ██╔══██╗╚██╗██╔╝    ██╔════╝██╔══██╗██╔══██╗████╗ ████║
+█████╗  ██║     ███████║ ╚███╔╝     █████╗  ███████║██████╔╝██╔████╔██║
+██╔══╝  ██║     ██╔══██║ ██╔██╗     ██╔══╝  ██╔══██║██╔══██╗██║╚██╔╝██║
+██║     ███████╗██║  ██║██╔╝ ██╗    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulflaxfarm.bloodstone" traildata="trails/res/res-uL_flax-bloodstone.trl" mapid="1165" color="c4ff0e" fadenear="3000" fadefar="4000" animspeed="1" trailscale="1.5" minimapvisibility="0" mapvisibility="1" texture="data/farm/farm_trail.png" />
+	<!-- FLAX MARKERS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="127.3688" ypos="843.3687" zpos="87.72924" guid="KacnESnIZUKJJ08jCeWYhw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="143.8759" ypos="825.0258" zpos="136.1382" guid="Jz7Wj3HKjk2IfM49Qol/ig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="150.1512" ypos="825.54" zpos="136.3004" guid="oHeulkmWNEGxLTQok/ePaw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="208.925" ypos="801.1114" zpos="-3.12037" guid="EvARZfabBUO8SbwokHISig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="204.2862" ypos="800.0816" zpos="-7.441796" guid="ZjaHqV7o10qKuOVNde14TA==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="195.6534" ypos="800.2465" zpos="-4.059998" guid="KacnESnIZUKJJ08jCeWYhw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="164.8989" ypos="770.4229" zpos="13.21331" guid="Jz7Wj3HKjk2IfM49Qol/ig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="165.1016" ypos="769.3373" zpos="6.444413" guid="oHeulkmWNEGxLTQok/ePaw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+	<!-- ZONE START -->
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="-52.21876" ypos="654.3047" zpos="22.18475" guid="yEsLS3jMp06ldecYcu7v3Q==" heightOffset="1" minimapvisibility="0" iconsize="2" minSize="100" iconfile="data/farm/farm_flax_4.png" />
+	<!-- NEXT ZONE COPY -->
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="159.0069" ypos="766.4703" zpos="0.6763101" guid="fx4mpG6Xak6x60PP93S9bA==" autotrigger="1" triggerrange="5" heightOffset="2" minimapvisibility="0" iconsize="1" minSize="100" copy="(5) Jahai Bluffs → [&BJMLAAA=]" copy-message="Fifth WP For Flax Farm Copied" iconfile="data/farm/farm_flax_5.png" />
+	<!-- MOUNTS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="-45.13575" ypos="656.3886" zpos="30.64044" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="0.5" autotrigger="1" triggerrange="3" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_skyscale.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="153.1207" ypos="826.244" zpos="129.8379" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="0.5" autotrigger="1" triggerrange="3" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_skyscale.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="128.2617" ypos="843.3946" zpos="91.10266" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="0.5" autotrigger="1" triggerrange="3" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_glide.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="182.0812" ypos="797.571" zpos="-4.731329" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="0.5" autotrigger="1" triggerrange="3" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_glide.png" />
+	</pois>
+</overlaydata>

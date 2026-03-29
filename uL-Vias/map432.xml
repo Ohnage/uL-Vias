@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██████╗ ███████╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗    ██║     ██╔════╝██║   ██║██╔════╝██║     ██║████╗  ██║██╔════╝ 
+███████╗██████╔╝█████╗  █████╗  ██║  ██║    ██║     █████╗  ██║   ██║█████╗  ██║     ██║██╔██╗ ██║██║  ███╗
+╚════██║██╔═══╝ ██╔══╝  ██╔══╝  ██║  ██║    ██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║██║╚██╗██║██║   ██║
+███████║██║     ███████╗███████╗██████╔╝    ███████╗███████╗ ╚████╔╝ ███████╗███████╗██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝     ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulsl.sm.cag1" traildata="trails/sl/tutorial/tut_sylvari-uL_sl.trl" texture="data/sl/sl_alt-trail.png" mapid="432" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="87b26c"/>
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulsl.sm.cag1.Start" mapid="432" xpos="-448.6629" ypos="-0.3893034" zpos="-688.7148" guid="i8+uwan07E2LnCu8JG5MWg==" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" iconfile="data/sl/sl_tut-sylvari.png" />
+		<poi type="ul.ulsl.sm.cag1.Start" mapid="432" xpos="-447.7062" ypos="1.800742" zpos="-676.9429" guid="jxag+kvYfEOfwZRQOdCElA==" info=" [- COMPLETE TUTORIAL -]&#xA;&#xA;Don't Worry About Food/Util Or Talking To Anyone On The Way. Just Follow The Trail And Do The Required Events." inforange="10" minimapvisibility="0" mapvisibility="0" iconsize="1.8" inGameVisibility="0" heightOffset="2" iconfile="data/sl/sl_blank.png" />
+	</pois>
+</overlaydata>

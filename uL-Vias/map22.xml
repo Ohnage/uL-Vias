@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+██╔══██╗██║   ██║██║     ██║ ██╔╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██████╔╝██║   ██║██║     █████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔═██╗     ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██╗    ██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulbulkfarm.nrocroc" traildata="trails/res/res-uL_bulk-nrocroc_chief.trl" texture="data/farm/farm_trail.png" mapid="22" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+		<trail type="ul.ulresfarm.ulbulkfarm.wupwup" traildata="trails/res/res-uL_bulk-wupwup_chief.trl" texture="data/farm/farm_trail.png" mapid="22" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulresfarm.ulbulkfarm.nrocroc" mapid="22" xpos="-694.5127" ypos="45.32306" zpos="-287.2916" guid="mI/j99OPkku0bhABrF3xPg==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-nrocroc_chief.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.nrocroc" mapid="22" xpos="-659.712" ypos="44.39721" zpos="-452.1113" guid="vWPfkmtBxEyfvVJ2f+A+vw==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.wupwup" mapid="22" xpos="-706.944" ypos="48.55954" zpos="-665.581" guid="HjKTcUuvMEm3tH9t0TPMMA==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="3.5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-wupwup_chief.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.wupwup" mapid="22" xpos="-657.6161" ypos="43.883" zpos="-473.3213" guid="wij+b9ueK02SHkYUdug2rw==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+	</pois>
+</overlaydata>
+
+

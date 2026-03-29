@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██████╗ ███████╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗    ██║     ██╔════╝██║   ██║██╔════╝██║     ██║████╗  ██║██╔════╝ 
+███████╗██████╔╝█████╗  █████╗  ██║  ██║    ██║     █████╗  ██║   ██║█████╗  ██║     ██║██╔██╗ ██║██║  ███╗
+╚════██║██╔═══╝ ██╔══╝  ██╔══╝  ██║  ██║    ██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║██║╚██╗██║██║   ██║
+███████║██║     ███████╗███████╗██████╔╝    ███████╗███████╗ ╚████╔╝ ███████╗███████╗██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝     ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulsl.sm.cag5" traildata="trails/sl/cag5_sc-uL_sl.trl" texture="data/sl/sl_trail.png" mapid="873" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="a20fff"/>
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulsl.sm.ExtraM" mapid="873" xpos="-1550" ypos="999" zpos="150" guid="Qb9NM67T9kqz8+UUnbxZGQ==" tip-name="Extra Steps" tip-description="These steps are not on the route must also be completed while in this zone!" mapdisplaysize="1000" canfade="1" fadefar="-1" miniMapVisibility="0" inGameVisibility="0" mapvisibility="1" iconfile="data/sl/sl_vol-five_extra.png" />
+		<poi type="ul.ulsl.sm.ExtraM" mapid="873" xpos="1550" ypos="999" zpos="150" guid="8mL8qqwC/E6O8wp6OoDbeg==" tip-name="Extra Steps" tip-description="These steps are not on the route must also be completed while in this zone!" mapdisplaysize="1000" canfade="1" fadefar="-1" miniMapVisibility="0" inGameVisibility="0" mapvisibility="1" iconfile="data/sl/sl_vol-five_extra.png" />
+		<poi type="ul.ulsl.sm.cag5.Reminder" mapid="873" xpos="497.1404" ypos="47.46036" zpos="-217.5608" guid="Wzit2ZRQdEmllfN+6qEZnQ==" info="[- REMEMBER TO GATHER -]&#xA;&#xA;Keep an eye out for plants. We need to FINISH gathering our 20 plants in THIS zone!" inforange="10" miniMapVisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="1.5" iconfile="data/sl/sl_gather.png" />
+		<poi type="ul.ulsl.sm.cag5.Event" mapid="873" xpos="600.6349" ypos="31.75091" zpos="-334.0747" guid="LRKSSmxCvUChyU5tg9ErBA==" info="[- WATCH FOR EVENTS -]&#xA;Completing events is the only thing in this run we cant fully control.&#xA;&#xA;That means watching for events constantly is crutual.&#xA;&#xA;If you see an event, go to it, period. [Alt+Click] on the trail on the mini-map where you left off and come back after the event.&#xA;&#xA;Also look for npc's that can start events and do those as well." inforange="10" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" iconfile="data/sl/sl_event.png" />
+		<poi type="ul.ulsl.sm.cag5.Kill" mapid="873" xpos="202.7081" ypos="48.41716" zpos="-76.00088" guid="2zgdgewdVUeO/mKUnf8V3A==" info="[- KILL MOBS -]&#xA;We need to kill karkas x5 in this zone.&#xa;&#xa;[- NOTE -]&#xa;keep an eye out for events!&#xa;&#xa;[- IMPORTANT NOTE -]&#xa;Even if you finish killing karkas and complete the [adventure guide: volume five] Please follow this trail to the end!" inforange="5" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" iconfile="data/sl/sl_vol-five_kill.png" />
+		<poi type="ul.ulsl.sm.cag5.Continue" mapid="31" xpos="646.1228" ypos="34.00863" zpos="-313.4641" GUID="+VmQ85uPkUeVp35O1vwgIw==" iconsize="1.8" heightOffset="2" iconfile="data/sl/sl_vol-five_continue.png" />
+	<!-- WAYPOINTS -->	
+		<poi type="ul.ulsl.sm.cag5.WP" mapid="30" xpos="622.5146" ypos="31.01334" zpos="-346.1443" guid="9YV8Rq9NVUORtF1xIjIzPg=="  minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="8" iconfile="data/sl/sl_vol-five_wp.png" />
+		<poi type="ul.ulsl.sm.cag5.Complete" mapid="873" xpos="-143.6856" ypos="45.8155" zpos="-178.4275" guid="gtayUwDWb0iClao8wBoS3A==" iconsize="10" fadefar="2000" fadenear="1900" cull="CounterClockwise" rotate="100,0,190" minimapvisibility="0" mapvisibility="0" heightOffset="6" iconfile="data/sl/sl_complete.png" />
+	</pois>
+</overlaydata>

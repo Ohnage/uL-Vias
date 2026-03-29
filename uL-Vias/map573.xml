@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██████╗ ███████╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗    ██║     ██╔════╝██║   ██║██╔════╝██║     ██║████╗  ██║██╔════╝ 
+███████╗██████╔╝█████╗  █████╗  ██║  ██║    ██║     █████╗  ██║   ██║█████╗  ██║     ██║██╔██╗ ██║██║  ███╗
+╚════██║██╔═══╝ ██╔══╝  ██╔══╝  ██║  ██║    ██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║██║╚██╗██║██║   ██║
+███████║██║     ███████╗███████╗██████╔╝    ███████╗███████╗ ╚████╔╝ ███████╗███████╗██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝     ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulsl.sm.cag1" traildata="trails/sl/tutorial/tut_asura-uL_sl.trl" texture="data/sl/sl_alt-trail.png" mapid="573" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="a46ef5"/>
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulsl.sm.cag1.Start" mapid="573" xpos="-484.1853" ypos="47.28484" zpos="-750.1773" guid="yvGgSi38z0WgmhJOvtq1oA==" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" iconfile="data/sl/sl_tut-asura.png" />
+		<poi type="ul.ulsl.sm.cag1.Start" mapid="573" xpos="-494.4187" ypos="47.28973" zpos="-747.218" guid="Jx/6sz9Clk+6qUQ5LwUy9w==" info=" [- COMPLETE TUTORIAL -]&#xA;&#xA;Don't Worry About Food/Util Or Talking To Anyone On The Way. Just Follow The Trail And Do The Required Events." inforange="10" minimapvisibility="0" mapvisibility="0" iconsize="1.8" inGameVisibility="0" heightOffset="2" iconfile="data/sl/sl_blank.png" />
+	</pois>
+</overlaydata>

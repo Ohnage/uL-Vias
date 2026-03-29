@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██╗      █████╗ ██╗  ██╗    ███████╗ █████╗ ██████╗ ███╗   ███╗
+██╔════╝██║     ██╔══██╗╚██╗██╔╝    ██╔════╝██╔══██╗██╔══██╗████╗ ████║
+█████╗  ██║     ███████║ ╚███╔╝     █████╗  ███████║██████╔╝██╔████╔██║
+██╔══╝  ██║     ██╔══██║ ██╔██╗     ██╔══╝  ██╔══██║██╔══██╗██║╚██╔╝██║
+██║     ███████╗██║  ██║██╔╝ ██╗    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulflaxfarm.itzel" traildata="trails/res/res-uL_flax-itzel.trl" mapid="1052" color="c4ff0e" fadenear="3000" fadefar="4000" animspeed="1" trailscale="1.5" minimapvisibility="0" mapvisibility="1" texture="data/farm/farm_trail.png" />
+	<!-- FLAX MARKERS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="723.546509" ypos="14.863197" zpos="402.46286" guid="KacnESnIZUKJJ08jCeWYhw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="725.360413" ypos="15.0525" zpos="406.266113" guid="Jz7Wj3HKjk2IfM49Qol/ig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="723.155762" ypos="14.424235" zpos="410.466003" guid="oHeulkmWNEGxLTQok/ePaw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="722.358826" ypos="14.42630" zpos="414.759552" guid="EvARZfabBUO8SbwokHISig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="722.306641" ypos="14.508088" zpos="417.93576" guid="ZjaHqV7o10qKuOVNde14TA==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+	<!-- ZONE START -->
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="665.2703" ypos="372.9937" zpos="373.292" guid="yEsLS3jMp06ldecYcu7v3Q==" heightOffset="1" minimapvisibility="0" iconsize="2" minSize="100" iconfile="data/farm/farm_flax_2.png" />
+	<!-- NEXT ZONE COPY -->
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="716.661682" ypos="13.813828" zpos="425.025665" guid="fx4mpG6Xak6x60PP93S9bA==" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="2" minSize="100" copy="(3) Tangled Depths → [&BMwHAAA=]" copy-message="Third WP For Flax Farm Copied" iconfile="data/farm/farm_flax_3.png" />
+	<!-- MOUNTS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.itzel" mapid="1052" xpos="667.0505" ypos="374.0078" zpos="376.2679" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="0.5" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_glide.png" />
+	</pois>
+</overlaydata>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██████╗ ███████╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗    ██║     ██╔════╝██║   ██║██╔════╝██║     ██║████╗  ██║██╔════╝ 
+███████╗██████╔╝█████╗  █████╗  ██║  ██║    ██║     █████╗  ██║   ██║█████╗  ██║     ██║██╔██╗ ██║██║  ███╗
+╚════██║██╔═══╝ ██╔══╝  ██╔══╝  ██║  ██║    ██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║██║╚██╗██║██║   ██║
+███████║██║     ███████╗███████╗██████╔╝    ███████╗███████╗ ╚████╔╝ ███████╗███████╗██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝     ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+ -->
+	<pois>
+	<!-- TRAILS -->
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulsl.sm.cag1.Heart" mapid="35" xpos="-388.9313" ypos="44.37323" zpos="-755.5725" guid="V+a7OlOTpUqpJhh3Ij6Hjg==" minimapvisibility="0" mapvisibility="0" iconsize="1.8" inGameVisibility="0" heightOffset="2" iconfile="data/sl/sl_blank.png" />
+		<poi type="ul.ulsl.sm.cag1.WP" mapid="35" xpos="-385.0429" ypos="44.40741" zpos="-749.6329" guid="vvvQtJuwy0m+OLs4Ev1zQQ==" race="asura" info="[- DON'T START HERE -]&#xA;&#xA;This Power Leveling Route Starts In Queensdale.&#xA;&#xA;Please Press [F] To Copy The Needed Waypoint And Then Paste (CTRL+V) In Chat To Get A Clickable Waypoint Link!" inforange="15" copy="Go To [&BO8AAAA=] To Start This Speed Leveling Route!" copy-message="Shaemoor Waypoint Copied" iconsize="5" autotrigger="0" triggerrange="15" fadefar="3000" fadenear="2750" minimapvisibility="0" mapvisibility="0" heightOffset="3" behavior="7" iconfile="data/sl/sl_dont-start.png" />
+	</pois>
+<!-- 
+██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+██╔══██╗██║   ██║██║     ██║ ██╔╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██████╔╝██║   ██║██║     █████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔═██╗     ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██╗    ██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulbulkfarm.hrappa" traildata="trails/res/res-uL_bulk-researcher_hrappa.trl" texture="data/farm/farm_trail.png" mapid="35" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulresfarm.ulbulkfarm.hrappa" mapid="35" xpos="-105.3386" ypos="22.3118" zpos="-214.8398" guid="F9oTHNXl/kqx11bXdkVUoQ==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="3" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-researcher_hrappa.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.hrappa" mapid="35" xpos="-120.0839" ypos="26.98911" zpos="-139.0447" guid="9hJMfMBYhkqZtFoA+WkADQ==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+	</pois>
+
+</overlaydata>

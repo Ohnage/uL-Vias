@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+██╔══██╗██║   ██║██║     ██║ ██╔╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██████╔╝██║   ██║██║     █████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔═██╗     ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██╗    ██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulbulkfarm.pickins" traildata="trails/res/res-uL_bulk-lieutenant-pickins.trl" texture="data/farm/farm_trail.png" mapid="17" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+		<trail type="ul.ulresfarm.ulbulkfarm.summers" traildata="trails/res/res-uL_bulk-lieutenant-summers.trl" texture="data/farm/farm_trail.png" mapid="17" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulresfarm.ulbulkfarm.pickins" mapid="17" xpos="-743.2395" ypos="14.34757" zpos="395.8142" guid="T5vpBL/whE+N/+YvV7qEhg==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-lieutenant-pickins.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.pickins" mapid="17" xpos="-722.5474" ypos="17.31561" zpos="410.0356" guid="HbtMryuyHE+cY+HD2mreHQ==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.summers" mapid="17" xpos="-69.25256" ypos="0.3490276" zpos="-713.6152" guid="bHbOEAT8qUqst6vudhiVRg==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-lieutenant-summers.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.summers" mapid="17" xpos="-70.8577" ypos="0.5831446" zpos="-744.6577" guid="4Up/KmunH0iznBCUFl5zwA==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+	</pois>
+
+</overlaydata>

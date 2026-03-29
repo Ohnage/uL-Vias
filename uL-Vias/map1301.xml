@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██╗      █████╗ ██╗  ██╗    ███████╗ █████╗ ██████╗ ███╗   ███╗
+██╔════╝██║     ██╔══██╗╚██╗██╔╝    ██╔════╝██╔══██╗██╔══██╗████╗ ████║
+█████╗  ██║     ███████║ ╚███╔╝     █████╗  ███████║██████╔╝██╔████╔██║
+██╔══╝  ██║     ██╔══██║ ██╔██╗     ██╔══╝  ██╔══██║██╔══██╗██║╚██╔╝██║
+██║     ███████╗██║  ██║██╔╝ ██╗    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulflaxfarm.wyvernroost" traildata="trails/res/res-uL_flax-wyvernroost.trl" mapid="1301" color="c4ff0e" fadenear="3000" fadefar="4000" animspeed="1" trailscale="1.5" minimapvisibility="0" mapvisibility="1" texture="data/farm/farm_trail.png" />
+	<!-- FLAX MARKERS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-60.16388" ypos="154.4157" zpos="613.1255" guid="KacnESnIZUKJJ08jCeWYhw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-71.82804" ypos="163.4911" zpos="597.6364" guid="Jz7Wj3HKjk2IfM49Qol/ig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-86.5611" ypos="181.197" zpos="596.7447" guid="oHeulkmWNEGxLTQok/ePaw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-97.21788" ypos="181.2361" zpos="605.71" guid="EvARZfabBUO8SbwokHISig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-132.5329" ypos="179.4741" zpos="563.4377" guid="ZjaHqV7o10qKuOVNde14TA==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-124.5845" ypos="161.295" zpos="603.077" guid="KacnESnIZUKJJ08jCeWYhw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-88.19005" ypos="173.3903" zpos="643.0556" guid="Jz7Wj3HKjk2IfM49Qol/ig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-45.83704" ypos="153.8844" zpos="637.8561" guid="Jz7Wj3HKjk2IfM49Qol/ig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+	<!-- ZONE START -->
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-838.5283" ypos="71.20175" zpos="116.4559" guid="yEsLS3jMp06ldecYcu7v3Q==" heightOffset="1" minimapvisibility="0" iconsize="2" minSize="100" iconfile="data/farm/farm_flax_5.png" />
+	<!-- NEXT ZONE COPY -->
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-41.74568" ypos="153.9072" zpos="642.155" guid="fx4mpG6Xak6x60PP93S9bA==" heightOffset="1" iconsize="2" minSize="150" iconfile="data/farm/farm_done_chr.png" />
+	<!-- MOUNTS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-836.4794" ypos="71.59628" zpos="124.5403" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_beatle.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-428.8764" ypos="75.60849" zpos="595.5791" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_jackle.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-18.9285" ypos="89.40857" zpos="605.6063" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_skyscale.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-109.8534" ypos="159.5505" zpos="618.9046" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_skyscale.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-97.44348" ypos="181.2361" zpos="598.392" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_skyscale.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.wyvernroost" mapid="1301" xpos="-80.47132" ypos="173.4003" zpos="644.6358" guid="fx4mpG6Xak6x60PP93S9bA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_glide.png" />
+	</pois>
+</overlaydata>

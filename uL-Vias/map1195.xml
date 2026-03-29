@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██╗      █████╗ ██╗  ██╗    ███████╗ █████╗ ██████╗ ███╗   ███╗
+██╔════╝██║     ██╔══██╗╚██╗██╔╝    ██╔════╝██╔══██╗██╔══██╗████╗ ████║
+█████╗  ██║     ███████║ ╚███╔╝     █████╗  ███████║██████╔╝██╔████╔██║
+██╔══╝  ██║     ██╔══██║ ██╔██╗     ██╔══╝  ██╔══██║██╔══██╗██║╚██╔╝██║
+██║     ███████╗██║  ██║██╔╝ ██╗    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulflaxfarm.grotto" traildata="trails/res/res-uL_flax-grotto.trl" mapid="1195" color="c4ff0e" fadenear="3000" fadefar="4000" animspeed="1" trailscale="1.5" minimapvisibility="0" mapvisibility="1" texture="data/farm/farm_trail.png" />
+	<!-- FLAX MARKERS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="526.6699" ypos="102.2873" zpos="-473.2527" guid="KacnESnIZUKJJ08jCeWYhw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="532.4297" ypos="102.2794" zpos="-479.9951" guid="Jz7Wj3HKjk2IfM49Qol/ig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="539.9213" ypos="104.6355" zpos="-482.6328" guid="oHeulkmWNEGxLTQok/ePaw==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="548.0497" ypos="107.3175" zpos="-481.1906" guid="EvARZfabBUO8SbwokHISig==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="552.8737" ypos="108.1727" zpos="-473.1392" guid="ZjaHqV7o10qKuOVNde14TA==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="554.1226" ypos="108.4625" zpos="-464.228" guid="+N0xnDjLdU+wHXfPBUwFvg==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="547.3452" ypos="107.4333" zpos="-458.3332" guid="yAwOFFZ58EiYKfxn6jHbLA==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="538.5832" ypos="106.0355" zpos="-457.4341" guid="p0/SJLqaRUSjL8Gu5Wnz/g==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="530.626" ypos="104.7327" zpos="-459.955" guid="MYQgDWHvW0KXjJumpu/MQQ==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="526.4376" ypos="103.415" zpos="-465.607" guid="DaViieiLo0ax9AOjOPU/1w==" bounce="rise" bounce-height="500" bounce-duration="1" autotrigger="1" triggerrange="10" heightOffset="2.5" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/farm_flax.png" />
+	<!-- ZONE START -->
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="401.7471" ypos="410.5611" zpos="-315.263" guid="yEsLS3jMp06ldecYcu7v3Q==" heightOffset="1" minimapvisibility="0" iconsize="2" minSize="100" iconfile="data/farm/farm_flax_1.png" />
+	<!-- NEXT ZONE COPY -->
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="541.5755" ypos="106.396736" zpos="-469.340576" guid="68DugawvJkKQcZLCYkKILQ==" autotrigger="1" triggerrange="5" heightOffset="1" minimapvisibility="0" iconsize="2" minSize="100" copy="(2) Verdant Brink → [&BOAHAAA=]" copy-message="Second WP For Flax Farm Copied" iconfile="data/farm/farm_flax_2.png" />
+	<!-- MOUNTS -->
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="389.7451" ypos="411.3777" zpos="-319.9002" guid="DUwW6e3pzU2R0BGtIxWJmw==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="2" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_raptor.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="275.032" ypos="381.6731" zpos="-363.7492" guid="Q36JEB+t1ke2qP85iPCiTA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="2" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_glide.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.grotto" mapid="1195" xpos="318.8202" ypos="102.4183" zpos="-314.9268" guid="rUuYqrRluE+X02d0so4jOA==" bounce="rise" bounce-height="3" bounce-duration="1" autotrigger="1" triggerrange="5" heightOffset="2" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_beatle.png" />
+	</pois>
+</overlaydata>

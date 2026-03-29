@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██████╗ ███████╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗    ██║     ██╔════╝██║   ██║██╔════╝██║     ██║████╗  ██║██╔════╝ 
+███████╗██████╔╝█████╗  █████╗  ██║  ██║    ██║     █████╗  ██║   ██║█████╗  ██║     ██║██╔██╗ ██║██║  ███╗
+╚════██║██╔═══╝ ██╔══╝  ██╔══╝  ██║  ██║    ██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║██║╚██╗██║██║   ██║
+███████║██║     ███████╗███████╗██████╔╝    ███████╗███████╗ ╚████╔╝ ███████╗███████╗██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝     ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulsl.sm.cag4" traildata="trails/sl/cag4_rb-uL_sl.trl" texture="data/sl/sl_trail.png" mapid="1099" fadenear="2000" fadefar="2500" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="0078ff"/>
+	<!-- ADVENTURE TWO GUIDE STEPS -->	
+		<poi type="ul.ulsl.sm.cag4.Continue" mapid="1099" xpos="2.279081" ypos="150.3935" zpos="822.4263" guid="szxPuGmu1kqaelXIl9T+0A==" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="1.5" iconfile="data/sl/sl_vol-four_la.png" />
+	</pois>
+</overlaydata>

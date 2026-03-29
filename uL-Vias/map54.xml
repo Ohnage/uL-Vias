@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+██╔══██╗██║   ██║██║     ██║ ██╔╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██████╔╝██║   ██║██║     █████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔═██╗     ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██╗    ██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulbulkfarm.goran" traildata="trails/res/res-uL_bulk-seraph_soldier_goran.trl" texture="data/farm/farm_trail.png" mapid="54" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulresfarm.ulbulkfarm.goran" mapid="54" xpos="965.9279" ypos="70.3531" zpos="552.3116" guid="9JSA9XcszUOnE74EzDOGBg==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="3.5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-seraph_soldier_goran.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.goran" mapid="54" xpos="963.0565" ypos="55.07782" zpos="639.781" guid="6zPwvHmDnE2AXwS3FA+T/g==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+	</pois>
+</overlaydata>
+
+

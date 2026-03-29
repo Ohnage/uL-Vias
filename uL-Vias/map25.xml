@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+██╔══██╗██║   ██║██║     ██║ ██╔╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██████╔╝██║   ██║██║     █████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔═██╗     ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██╗    ██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulbulkfarm.scalehunter" traildata="trails/res/res-uL_bulk-braxa_scalehunter.trl" texture="data/farm/farm_trail.png" mapid="25" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+		<trail type="ul.ulresfarm.ulbulkfarm.naknar" traildata="trails/res/res-uL_bulk-naknar.trl" texture="data/farm/farm_trail.png" mapid="25" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulresfarm.ulbulkfarm.scalehunter" mapid="25" xpos="-200.7723" ypos="29.02635" zpos="-611.4006" guid="iv8+Gz9c9UqnF0PmATY3PQ==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4.7" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-braxa_scalehunter.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.scalehunter" mapid="25" xpos="-220.1616" ypos="2.585591" zpos="-388.3788" guid="SqqHboVYgEikz2dNWxNd+Q==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="1.5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.naknar" mapid="25" xpos="374.0154" ypos="3.154901" zpos="894.1251" guid="aC1A3uKMdUG/6TMPGCvIsA==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-naknar.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.naknar" mapid="25" xpos="435.3502" ypos="8.942702" zpos="902.5967" guid="MRBFEO+/TEqRYSCY86yO7A==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="1.5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+	</pois>
+</overlaydata>
+
+

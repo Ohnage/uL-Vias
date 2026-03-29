@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+███████╗██████╗ ███████╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗ 
+██╔════╝██╔══██╗██╔════╝██╔════╝██╔══██╗    ██║     ██╔════╝██║   ██║██╔════╝██║     ██║████╗  ██║██╔════╝ 
+███████╗██████╔╝█████╗  █████╗  ██║  ██║    ██║     █████╗  ██║   ██║█████╗  ██║     ██║██╔██╗ ██║██║  ███╗
+╚════██║██╔═══╝ ██╔══╝  ██╔══╝  ██║  ██║    ██║     ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║██║╚██╗██║██║   ██║
+███████║██║     ███████╗███████╗██████╔╝    ███████╗███████╗ ╚████╔╝ ███████╗███████╗██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝     ╚══════╝╚══════╝  ╚═══╝  ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulsl.sm.cag1" traildata="trails/sl/cag1_cf-uL_sl.trl" texture="data/sl/sl_trail.png" mapid="34" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="ffde00"/>
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulsl.sm.cag1.Scout" mapid="34" xpos="-165.3582" ypos="3.965048" zpos="-987.8467" guid="1R3g5FgFZkqEyzaZ25st+g==" info="[- SCOUT -]&#xA;&#xA;• Interact With The Scout! (2/3)&#xA;&#xA;[- NOTE -]&#xA;As soon as the map opens you can instantly close it and move on." inforange="5" fadefar="3000" fadenear="2750" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="4" iconfile="data/sl/sl_vol-one_scout.png" />
+		<poi type="ul.ulsl.sm.cag1.Heart" mapid="34" xpos="-200.9445" ypos="-0.3267394" zpos="-1006.309" guid="R6nV/SbFVUeXvuFYI5pLDw==" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" iconfile="data/sl/sl_vol-one_heart.png" />
+		<poi type="ul.ulsl.sm.cag1.Heart" mapid="34" xpos="-233.273" ypos="0.373984" zpos="-961.877" guid="LGl2Y/I1iUC4jlYDIDNaQg==" info=" [- COMPLETE HEART -]&#xA;&#xA;• Kick Prickly Trees&#xA;• Dig up Larva Tails&#xA;• Kill Termite Larva" inforange="55" minimapvisibility="0" mapvisibility="0" iconsize="1.8" inGameVisibility="0" heightOffset="2" iconfile="data/sl/sl_blank.png" />
+		<poi type="ul.ulsl.sm.cag1.POI" mapid="34" xpos="-227.2631" ypos="0.6230587" zpos="-966.1232" guid="2SBHfqIcwkeyJsVA6Sjy6g==" fadefar="3000" fadenear="2750" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" iconfile="data/sl/sl_vol-one_poi.png" />
+		<poi type="ul.ulsl.sm.cag1.WP" mapid="34" xpos="-164.2543" ypos="4.272708" zpos="-998.6659" guid="GqRUQmMDHkquzFPVW3XfSQ==" race="sylvari" info="[- DON'T START HERE -]&#xA;&#xA;This power leveling route starts in queensdale.&#xA;&#xA;Please press [F] to copy the needed waypoint and then paste [CTRL+V] in chat to get a clickable waypoint link!" inforange="15" copy="Go To [&BO8AAAA=] To Start This Speed Leveling Route!" copy-message="Shaemoor Waypoint Copied" iconsize="5" autotrigger="0" triggerrange="15" fadefar="3000" fadenear="2750" minimapvisibility="0" mapvisibility="0" heightOffset="3" behavior="7" iconfile="data/sl/sl_dont-start.png" />
+	<!-- WAYPOINTS -->	
+		<poi type="ul.ulsl.sm.cag1.Waypoint" mapid="34" xpos="-204.2893" ypos="1.125796" zpos="-984.4129" guid="XuZi6qHaZ0e9P6onDPBqWA==" copy="Go To [&BIABAAA=]" copy-message="Smokestead Waypoint Copied" minimapvisibility="0" mapvisibility="0" iconsize="1.8" autotrigger="1" triggerrange="5" heightOffset="2" iconfile="data/sl/sl_smokestead_waypoint.png" />
+	</pois>
+<!-- 
+██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗
+██╔══██╗██║   ██║██║     ██║ ██╔╝    ██╔══██╗██╔════╝██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝██╔════╝
+██████╔╝██║   ██║██║     █████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██║   ██║██████╔╝██║     █████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔═██╗     ██╔══██╗██╔══╝  ╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██╗    ██║  ██║███████╗███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulresfarm.ulbulkfarm.yoal" traildata="trails/res/res-uL_bulk-yoal.trl" texture="data/farm/farm_trail.png" mapid="34" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+	<!-- ADVENTURE GUIDE STEPS -->	
+		<poi type="ul.ulresfarm.ulbulkfarm.yoal" mapid="34" xpos="414.4038" ypos="0.2748874" zpos="335.6977" guid="4qCogr32yE+bMo/cjvHmag==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-yoal.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.yoal" mapid="34" xpos="362.4915" ypos="15.63284" zpos="249.3917" guid="8C1npuigQEOaz4QIbFM04g==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+	</pois>
+
+</overlaydata>
