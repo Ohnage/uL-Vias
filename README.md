@@ -4,7 +4,7 @@
 
 **uL Vias** is a Blish HUD Pathing marker pack designed as a **living trail** for the **Underground Legends** community and anyone else who wants high‑signal, low‑friction paths for leveling and farming in Guild Wars 2.  
 
-Version: **v1.1.8** – **Mar 29, 2026**
+Version: **v1.1.9** – **Mar 29, 2026**
 
 ---
 
