@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+	<markercategory name="ul" displayname=" [- uL Vias -] ">
+		<markercategory name="ver" isseparator="1" displayname=" [- uL Vias - Mar 29 2026- v1.1.8 -] ">
+			<markercategory name="dev" isseparator="1" displayname=" [- Underground Legends -] " />
+			<markercategory name="disc" isseparator="1" displayname=" [-  Join The uL Discord  -] " copy="https://discord.gg/QXvCbY9yY7" copy-message="The uL discord link was copied!" tip-description="Copy the link to join the ul discord & submit questions, comments, or suggestions!" />
+			<markercategory name="web" isseparator="1" displayname=" [-  Created By: Ohnage  -] " copy="/friend Ohnage.1638" copy-message="Chat command to add Ohnage to your friends copied!" tip-description="Copy chat command to add Ohnage to your in-game friends list to ask or share directly!" />
+			<markercategory name="thanks" isseparator="1" displayname=" [-     Special Thanks    -] " tip-description="Big thanks to those who helped make this project what it has become!&#xA;&#xA;• Fataleiga&#xA;• Mestiak&#xA;• Feesh&#xA;• QuitarHero" />
+		</markercategory>
+		<markercategory name="ulsl" displayname="Speed Leveling">
+			<markercategory name="sm" displayname=" [- Shiverpeak Mountains -] ">
+				<markercategory name="settings" isseparator="1" displayname=" [- Settings -]" />
+				<markercategory name="tut" displayname="Tutorial (WIP)" tip-description="Enable/Disable the Tutorial located in Queensdale&#xA;&#xA;This is not complete and is currently a work in progress." />
+				<markercategory name="ExtraM" displayname="Extra Steps [Map]" tip-description="Enable/Disable the Extra Steps images that are on the left/right of the zones when the map is active." />
+				<markercategory name="dmgtype" displayname="Select Damage Type" tip-description="Select whether you will be leveling as Power or Condition Damage&#xA;&#xA;(This effects the Trading Post messages)">
+					<markercategory name="power" displayname="Power Damage" tip-description="Select if you plan to level using power damage (recomended)" />
+					<markercategory name="condi" displayname="Condition Damage" toggledefault="0" tip-description="Select if you plan to level using condition damage" /></markercategory>
+				<markercategory name="volumes" isseparator="1" displayname=" [- Volumes -]" />
+				<markercategory name="cag1" displayname="Volume One" />
+				<markercategory name="cag2" displayname="Volume Two" />
+				<markercategory name="cag3" displayname="Volume Three" />
+				<markercategory name="cag4" displayname="Volume Four" />
+				<markercategory name="cag5" displayname="Volume Five" />
+			</markercategory>
+		</markercategory>
+		<markercategory name="ulresfarm" displayname="Resource Farms" fadenear="5000" fadefar="5100" animspeed="0" alpha="1">
+			<markercategory name="ulbulkfarm" displayname=" [- Bulk Cooking Supplies -] ">
+				<markercategory name="almonds" displayname="Almonds in Bulk" isseparator="1">
+					<markercategory name="disa" displayname="Dredgehaunt Cliffs" isseparator="1" copy="Talk To Disa, West of [&BGQCAAA=]" copy-message="Waypoint Copied" tip-description="Copy Travelen's Waypoint To Purchase Almonds in Bulk" />
+					<markercategory name="pickins" displayname="Harathi Hinterlands" isseparator="1" copy="Talk To Lieutenant Pickins, West of [&BKcAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Seraph's Landing Waypoint To Purchase Almonds in Bulk" />
+				</markercategory>
+				<markercategory name="book5" displayname="Apples in Bulk" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Apples in Bulk" />
+				<markercategory name="makayla" displayname="Avocados in Bulk" isseparator="1" copy="Talk To Fallen Angel Makayla, South of [&BNMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Hawkgates Waypoint To Purchase Avocados in Bulk" />
+				<markercategory name="bananas" displayname="Bananas in Bulk" isseparator="1">
+					<markercategory name="sangdo" displayname="[1] Kessex Hills" isseparator="1" copy="Talk To Sangdo Swiftwing, SW of [&BBIAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Cereboth Waypoint To Purchase Bananas in Bulk" />
+					<markercategory name="jenks" displayname="[2] Kessex Hills" isseparator="1" copy="Talk To Deputy Jenks, NE of [&BBMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Overlake Haven Waypoint To Purchase Bananas in Bulk" />
+					<markercategory name="vejj" displayname="Gendarran Fields" isseparator="1" copy="Talk To Security Captain Vejj, South of [&BJQBAAA=]" copy-message="Waypoint Copied" tip-description="Copy Almuten Waypoint To Purchase Bananas in Bulk" />
+					<markercategory name="goran" displayname="Brisban Wildlands	" isseparator="1" copy="Talk To Seraph Soldier Goran, South of [&BF0AAAA=]" copy-message="Waypoint Copied" tip-description="Copy Wendon Waypoint To Purchase Bananas in Bulk" />
+				</markercategory>
+				<markercategory name="bhia5" displayname="Basil Leaves in Bulk" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Basil Leaves in Bulk" />
+				<markercategory name="bhia2" displayname="Bell Peppers in Bulk" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Bell Peppers in Bulk" />
+				<markercategory name="blackbeans" displayname="Black Beans in Bulk" isseparator="1">
+					<markercategory name="leius" displayname="Gendarran Fields" isseparator="1" copy="Talk To Field Medic Leius, North of [&BIwBAAA=]" copy-message="Waypoint Copied" tip-description="Copy Talajian Waypoint To Purchase Black Beans in Bulk" />
+					<markercategory name="jenks2" displayname="Kessex Hills" isseparator="1" copy="Talk To Deputy Jenks, NE of [&BBMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Overlake Haven Waypoint To Purchase Black Beans in Bulk" />
+				</markercategory>
+				<markercategory name="hernandez" displayname="Black Beans in Bulk" isseparator="1" copy="Talk To Vice Chief Hernandez, South of [&BHgJAAA=]" copy-message="Waypoint Copied" tip-description="Copy Castaway Circus Waypoint To Purchase Black Beans in Bulk" />
+				<markercategory name="buttermilk" displayname="Buttermilk in Bulk" isseparator="1">
+					<markercategory name="bhia7" displayname="Maker's Terrace" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Buttermilk in Bulk" />
+					<markercategory name="veska" displayname="Diessa Plateau" isseparator="1" copy="Talk To Veska Bladesinger, SW of [&BGABAAA=]" copy-message="Waypoint Copied" tip-description="Copy Charradis Estate Waypoint To Purchase Buttermilk in Bulk" />
+				</markercategory>
+				<markercategory name="book4" displayname="Celery Stalks in Bulk" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Celery Stalks in Bulk" />
+				<markercategory name="bhia" displayname="Cheese Wedges in Bulk" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Cheese Wedges in Bulk" />
+				<markercategory name="cherries" displayname="Cherries in Bulk" isseparator="1">
+					<markercategory name="disa2" displayname="Dredgehaunt Cliffs" isseparator="1" copy="Talk To Disa, West of [&BGQCAAA=]" copy-message="Waypoint Copied" tip-description="Copy Travelen's Waypoint To Purchase Cherries in Bulk" /></markercategory>
+					<markercategory name="summers" displayname="Iron Marches" isseparator="1" copy="Talk To Lieutenant Summers, North of [&BKoAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Nightguard Waypoint To Purchase Cherries in Bulk" />
+				<markercategory name="naknar" displayname="Chickpeas in Bulk" isseparator="1" copy="Talk To Naknar, West of [&BO8BAAA=]" copy-message="Waypoint Copied" tip-description="Copy Grostogg's Kraal Waypoint To Purchase Chickpeas in Bulk" />
+				<markercategory name="coconuts" displayname="Coconuts in Bulk" isseparator="1">
+					<markercategory name="tunnira" displayname="Bloodtide Coast" isseparator="1" copy="Talk To Lionscout Tunnira, SW of [&BKMBAAA=]" copy-message="Waypoint Copied" tip-description="Copy Archen Foreland Waypoint To Purchase Coconuts in Bulk" />
+					<markercategory name="hernandez2" displayname="	Ember Bay" isseparator="1" copy="Talk To Vice Chief Hernandez, South of [&BHgJAAA=]" copy-message="Waypoint Copied" tip-description="Copy Castaway Circus Waypoint To Purchase Coconuts in Bulk" />
+				</markercategory>
+				<markercategory name="cumin" displayname="Cumin in Bulk" isseparator="1">
+					<markercategory name="sagum" displayname="Plains of Ashford" isseparator="1" copy="Talk To Sagum Relicseeker, NW of [&BIYBAAA=]" copy-message="Waypoint Copied" tip-description="Copy Ascalonian Catacombs Waypoint To Purchase Cumin in Bulk" />
+					<markercategory name="book3" displayname="Gendarran Fields" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Cumin in Bulk" />
+				</markercategory>
+				<markercategory name="jenrys" displayname="Eggplants in Bulk" isseparator="1" copy="Talk To Environmental Activist Jenrys, North of [&BNUCAAA=]" copy-message="Waypoint Copied" tip-description="Copy Judgment Waypoint To Purchase Eggplants in Bulk" />
+				<markercategory name="book6" displayname="Green Beans in Bulk" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Green Beans in Bulk" />
+				<markercategory name="bhia3" displayname="Ginger Root in Bulk" isseparator="1" ccopy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Ginger Root in Bulk" />
+				<markercategory name="horseradishroot" displayname="Horseradish Root in Bulk" isseparator="1">
+					<markercategory name="wupwup" displayname="Fireheart Rise" isseparator="1" copy="Talk To Wupwup Chief, South of [&BB0CAAA=]" copy-message="Waypoint Copied" tip-description="Copy Apostate Waypoint To Purchase Horseradish Root in Bulk" />
+					<markercategory name="laudren" displayname="Sparkfly Fen" isseparator="1" copy="Talk To Laudren, West of [&BE0DAAA=]" copy-message="Waypoint Copied" tip-description="Copy Dryground Village Waypoint To Purchase Horseradish Root in Bulk" />
+				</markercategory>
+				<markercategory name="kidneybeans" displayname="Kidney Beans in Bulk" isseparator="1">
+					<markercategory name="hune" displayname="Lornar's Pass" isseparator="1" copy="Talk To Hune, West of [&BOsAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Thunderhorns Waypoint To Purchase Kidney Beans in Bulk" />
+					<markercategory name="kastaz" displayname="Diessa Plateau" isseparator="1" copy="Talk To Kastaz Strongpaw, South of [&BN0AAAA=]" copy-message="Waypoint Copied" tip-description="Copy Nageling Waypoint To Purchase Kidney Beans in Bulk" />
+					<markercategory name="brian" displayname="Snowden Drifts" isseparator="1" copy="Talk To Seraph Archer Brian, East of [&BLoAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Seraph Outriders' Waypoint To Purchase Kidney Beans in Bulk" />
+				</markercategory>
+				<markercategory name="lemons" displayname="Lemons in Bulk" isseparator="1">
+					<markercategory name="hrappa" displayname="Metrica Province" isseparator="1" copy="Talk To Researcher Hrappa, South of [&BEMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Rana Landing Complex Waypoint To Purchase Lemons in Bulk" />
+					<markercategory name="yoal" displayname="Caledon Forest" isseparator="1" copy="Talk To Yoal, North of [&BD0BAAA=]" copy-message="Waypoint Copied" tip-description="Copy Titan's Staircase Waypoint To Purchase Lemons in Bulk" />
+					<markercategory name="book2" displayname="Gendarran Fields" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Lemons in Bulk" />
+				</markercategory>
+				<markercategory name="shelp" displayname="Limes in Bulk" isseparator="1" copy="Talk To Shelp, South of [&BP4BAAA=]" copy-message="Waypoint Copied" tip-description="Copy Expanse Waypoint To Purchase Limes in Bulk" />
+				<markercategory name="nutmegseeds" displayname="Nutmeg Seeds in Bulk" isseparator="1">
+					<markercategory name="book" displayname="Gendarran Fields" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Nutmeg Seeds in Bulk" />
+					<markercategory name="jenks3" displayname="Kessex Hills" isseparator="1" copy="Talk To Deputy Jenks, NE of [&BBMAAAA=]" copy-message="Waypoint Copied" tip-description="Copy Overlake Haven Waypoint To Purchase Nutmeg Seeds in Bulk" />
+				</markercategory>
+				<markercategory name="nrocroc" displayname="Peaches in Bulk" isseparator="1" copy="Talk To Nrocroc Chief, North of [&BB0CAAA=]" copy-message="Waypoint Copied" tip-description="Copy Apostate Waypoint To Purchase Peaches in Bulk" />
+				<markercategory name="scalehunter" displayname="Pears in Bulk" isseparator="1" copy="Talk To Braxa Scalehunter, South of [&BOcBAAA=]" copy-message="Waypoint Copied" tip-description="Copy Village of Scalecatch Waypoint To Purchase Pears in Bulk" />
+				<markercategory name="tholin" displayname="Pinenuts in Bulk" isseparator="1" copy="Talk To Scholar Tholin, SE of [&BFICAAA=]" copy-message="Waypoint Copied" tip-description="Copy Krongar Waypoint To Purchase Pinenuts in Bulk" />
+				<markercategory name="rice" displayname="Rice in Bulk" isseparator="1">
+					<markercategory name="bhia9" displayname="Maker's Terrace" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Rice in Bulk" />
+					<markercategory name="hernandez3" displayname="Ember Bay" isseparator="1" copy="Talk To Vice Chief Hernandez, South of [&BHgJAAA=]" copy-message="Waypoint Copied" tip-description="Copy Castaway Circus Waypoint To Purchase Rice in Bulk" />
+				</markercategory>
+				<markercategory name="ichtaca" displayname="Shallots in Bulk" isseparator="1" copy="Talk To Ichtaca, SE of [&BEoCAAA=]" copy-message="Waypoint Copied" tip-description="Copy Eztlitl Grounds Waypoint To Purchase Shallots in Bulk" />
+				<markercategory name="bhia4" displayname="Sour Cream in Bulk" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Sour Cream in Bulk" />
+				<markercategory name="tomatoes" displayname="Tomatoes in Bulk" isseparator="1">
+					<markercategory name="bhia6" displayname="Maker's Terrace" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Tomatoes in Bulk" />
+					<markercategory name="hawkslayer" displayname="Plains of Ashford" isseparator="1" copy="Talk To Mei Hawkslayer, West of [&BMcDAAA=]" copy-message="Waypoint Copied" tip-description="Copy Loreclaw Waypoint To Purchase Tomatoes in Bulk" />
+				</markercategory>
+				<markercategory name="bhia8" displayname="Yeast in Bulk" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint Copied" tip-description="Copy Reckoner's Waypoint To Purchase Yeast in Bulk" />
+			</markercategory>
+			<markercategory name="ulflaxfarm" displayname=" [- Flax (42 Nodes/6 Min) -] ">
+				<markercategory name="copy1" displayname="Copy All Waypoints" isseparator="1" copy="• [&BM0JAAA=] → [&BOAHAAA=] → [&BMwHAAA=] → [&BE4JAAA=] → [&BJMLAAA=] •" copy-message="All Waypoints For Flax Farm Copied" tip-description="Copy All Waypoints For The Flax Farm So You Can Easly Paste Them Into Chat And Work Through Them." />
+				<markercategory name="grotto" displayname="Druid's Grotto" />
+				<markercategory name="itzel" displayname="Jaka Itzel" />
+				<markercategory name="greattree" displayname="The Great Tree" />
+				<markercategory name="bloodstone" displayname="Bloodstone Shell" />
+				<markercategory name="wyvernroost" displayname="Wyvern Roost" />
+			</markercategory>
+		</markercategory>
+		<markercategory name="ulchestfarm" displayname="Chest Farms" fadenear="5000" fadefar="5100" animspeed="0" alpha="1">
+			<markercategory name="uliceboundfarm" displayname=" [- Icebound Chest (8 Min) -] ">
+				<markercategory name="copy1" displayname="Copy Koda's Welcome Waypoint" isseparator="1" copy="[&BIEJAAA=]" copy-message="Koda's Welcome Waypoint Copied" tip-description="Copy The Waypoint That Starts This Chest Farm" /></markercategory>
+		</markercategory>
+	</markercategory>
+</overlaydata>
