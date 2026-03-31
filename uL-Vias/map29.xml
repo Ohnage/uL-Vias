@@ -14,7 +14,7 @@
 		<trail type="ul.ulsl.sm.cag4" traildata="trails/sl/cag4_tf-uL_sl.trl" texture="data/sl/sl_trail.png" mapid="29" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="0078ff" />
 	<!-- ADVENTURE GUIDE STEPS -->	
 		<poi type="ul.ulsl.sm.ExtraM" mapid="29" xpos="-1100" ypos="999" zpos="150" guid="M0jSx4Y4DEmg+xxJ4XNG8Q==" tip-name="Extra Steps" tip-description="These Steps Are Not On The Route Must Also Be Completed While In This Zone!" mapdisplaysize="1000" canfade="1" fadefar="-1" miniMapVisibility="0" inGameVisibility="0" mapvisibility="1" iconfile="data/sl/sl_vol-four_extra.png" />
-		<poi type="ul.ulsl.sm.ExtraM" mapid="29" xpos="1150" ypos="999" zpos="150" guid="lRBGRDnlZkKg1tG0jDoTqg" tip-name="Extra Steps" tip-description="These Steps Are Not On The Route Must Also Be Completed While In This Zone!" mapdisplaysize="1000" canfade="1" fadefar="-1" miniMapVisibility="0" inGameVisibility="0" mapvisibility="1" iconfile="data/sl/sl_vol-four_extra.png" />
+		<poi type="ul.ulsl.sm.ExtraM" mapid="29" xpos="1150" ypos="999" zpos="150" guid="zgtmZdX7c0mAedfKnlJJRA==" tip-name="Extra Steps" tip-description="These Steps Are Not On The Route Must Also Be Completed While In This Zone!" mapdisplaysize="1000" canfade="1" fadefar="-1" miniMapVisibility="0" inGameVisibility="0" mapvisibility="1" iconfile="data/sl/sl_vol-four_extra.png" />
 		<poi type="ul.ulsl.sm.cag4.Extra" mapid="29" xpos="140.0835" ypos="56.27213" zpos="822.0712" guid="W+C6yfsVqU6cUGyYeWkCig==" iconsize="3" fadefar="3000" fadenear="2750" cull="CounterClockwise" rotate="90,0,280" minimapvisibility="0" mapvisibility="0" heightOffset="3" iconfile="data/sl/sl_vol-four_extra.png" />
 		<poi type="ul.ulsl.sm.cag4.Extra" mapid="29" xpos="284.6028" ypos="49.61337" zpos="466.5759" guid="i4U/8ru6wE2kHMwBGCiQ4g==" iconsize="3" fadefar="3000" fadenear="2750" cull="CounterClockwise" rotate="90,0,120" minimapvisibility="0" mapvisibility="0" heightOffset="0" iconfile="data/sl/sl_vol-four_extra.png" />
 		<poi type="ul.ulsl.sm.cag4.Extra" mapid="29" xpos="576.591" ypos="40.16672" zpos="401.6465" guid="ray0QClUKUSTkzLuZF/OmA==" iconsize="3" fadefar="3000" fadenear="2750" cull="CounterClockwise" rotate="90,0,10" minimapvisibility="0" mapvisibility="0" heightOffset="3" iconfile="data/sl/sl_vol-four_extra.png" />
@@ -83,6 +83,7 @@
 		<poi type="ul.ulresfarm.ulbulkfarm.tholin" mapid="29" xpos="-544.9612" ypos="37.99658" zpos="907.5277" guid="V7yThCsbtkaxvUWEtfyg3g==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
 	</pois>
 </overlaydata>
+
 
 
 

@@ -23,10 +23,11 @@
 	<!-- HERO POINTS SMALL GROUP -->
 		<poi type="ul.ulhp.eod.hp_sm" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="AZKy3PmiHEGShAGkGCKckQ==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) Starting [Tsuko Talonedge] Now! Be Sure To Tag The Mob!" copy-message="Tsuko Talonedge Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
 	<!-- HERO POINTS BIG GROUP -->
-		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="63JVcNhiQ0KyPVq5KcnCyQ" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) We Are Going To Do [Tsuko Talonedge] Twice. Please Help With Both To Speed Things Up!" copy-message="[BROADCAST] Tsuko Talonedge Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="o1pxuw8H8UyBhgbrnwnmjA==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) We Are Going To Do [Tsuko Talonedge] Twice. Please Help With Both To Speed Things Up!" copy-message="[BROADCAST] Tsuko Talonedge Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
 		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-777.014893" ypos="9.717897" zpos="647.828613" guid="lv997xHVKUqgUK70BE6YNA==" copy="(HP 2/7) Now Starting [Tsuko Talonedge] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Tsuko Talonedge Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="4" resetlength="3600" iconfile="data/hp/second_kill.png" />
 	<!-- MOUNTS -->
 	<!-- MARKS -->
 	<!-- SPECIAL INSTRUCTIONS -->	
 	</pois>
 </overlaydata>
+
