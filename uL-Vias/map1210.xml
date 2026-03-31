@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██╗  ██╗███████╗██████╗  ██████╗     ██████╗  ██████╗ ██╗███╗   ██╗████████╗    ████████╗██████╗  █████╗ ██╗███╗   ██╗
+██║  ██║██╔════╝██╔══██╗██╔═══██╗    ██╔══██╗██╔═══██╗██║████╗  ██║╚══██╔══╝    ╚══██╔══╝██╔══██╗██╔══██╗██║████╗  ██║
+███████║█████╗  ██████╔╝██║   ██║    ██████╔╝██║   ██║██║██╔██╗ ██║   ██║          ██║   ██████╔╝███████║██║██╔██╗ ██║
+██╔══██║██╔══╝  ██╔══██╗██║   ██║    ██╔═══╝ ██║   ██║██║██║╚██╗██║   ██║          ██║   ██╔══██╗██╔══██║██║██║╚██╗██║
+██║  ██║███████╗██║  ██║╚██████╔╝    ██║     ╚██████╔╝██║██║ ╚████║   ██║          ██║   ██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulhp.pof.co.commtrails" traildata="trails/hp/pof/co-uL_comm.trl" mapid="1210" />
+		<trail type="ul.ulhp.pof.co.alttrails" traildata="trails/hp/pof/co-uL_alt.trl" mapid="1210" />
+		<trail type="ul.ulhp.pof.co.trails" traildata="trails/hp/pof/co-uL_hp.trl" mapid="1210" />
+	<!-- PORTALS -->
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="-813.02" ypos="24.7042" zpos="660.705" guid="5Gyc22zq80CVjJ86O8bnkg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="-861.269" ypos="39.6165" zpos="649.615" guid="x2uyIiLaZES2Y+98BTdaOg==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="1267.83" ypos="189.386" zpos="499.354" guid="jMS23fMheU6WS/E1wcsGgw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="1253.491" ypos="293.155" zpos="461.248" guid="b+04Mz3v70+qewsDurQ5CA==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="705.158" ypos="114.728" zpos="374.194" guid="Nqy9pSrQ4k6H6GoRbqEOhQ==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="708.131" ypos="113.747" zpos="403.686" guid="XhTd3MO810qBoPJK5g6FNg==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="66.1825" ypos="52.8494" zpos="452.83" guid="Dym1Evph1kCnvgsuPm5ISQ==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="125.681" ypos="97.2925" zpos="470.829" guid="pu5jc4AN8kyWF7+s1H2jAQ==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-813.02" ypos="24.7042" zpos="660.705" guid="786HY3rdG0aIkJpm9fcFsg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-861.269" ypos="39.6165" zpos="649.615" guid="Lpi909u+bUyKlo7BNVoYVw==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="1267.83" ypos="189.386" zpos="499.354" guid="Fz5SOXwiE0+f5UPjICWRIw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="1253.491" ypos="293.155" zpos="461.248" guid="Q2hYMwM4v0miNBHHtlkOdQ==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="705.158" ypos="114.728" zpos="374.194" guid="kUYGLJGJkE2zhUqoZHVUMg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="708.131" ypos="113.747" zpos="403.686" guid="qbEEJCzAfE6h2/88qH28hQ==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="66.1825" ypos="52.8494" zpos="452.83" guid="U/5jPtfU8UOZ76SIk+ogLw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="125.681" ypos="97.2925" zpos="470.829" guid="PXRItjycLU25INiy5kQCAg==" iconfile="data/hp/port_out_big.png" />
+	<!-- START/READY CHECK/TIMERS -->	
+		<poi type="ul.ulhp.pof.signs" mapid="1210" xpos="-700.622" ypos="1.37078" zpos="-122.891" guid="RpwmJYaUEkyod81PHjZBwA==" iconfile="data/hp/hp_start.png" />
+	<!-- TRAIL PARTS -->	
+		<poi type="ul.ulhp.pof.signs" mapid="1210" xpos="-715.474" ypos="1.072" zpos="-96.112" guid="YkiLYjX2EESfriTX0QRYHQ==" behavior="1" iconfile="data/hp/hp2.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1210" xpos="701.443542" ypos="122.885536" zpos="212.400085" guid="1zeguZFf0UOQlV99zVup3w==" behavior="1" iconfile="data/hp/co/co_after_dh.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1210" xpos="705.847" ypos="122.698" zpos="185.867" guid="+6rwYNtmNEaion3Mko/maQ==" behavior="1" iconfile="data/hp/co/co_to_er.png" />
+	<!-- WAYPOINTS -->	
+		<poi type="ul.ulhp.pof.signs" mapid="1210" xpos="-476.842" ypos="17.4733" zpos="-673.001" guid="Fwpdos0EhEW7tOddnsY3QA==" copy="Meet Back At [&BLsKAAA=]" copy-message="Amnoon Waypoint Message Copied" autotrigger="1" triggerrange="2" iconfile="data/hp/co/pof_wp_amnoon.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1210" xpos="711.968" ypos="116.774" zpos="314.394" guid="p9nWdFYqvkCn+LrfRt0kGg==" iconfile="data/hp/grab_waypoint.png" />
+	<!-- COMPLETED/END -->	
+		<poi type="ul.ulhp.pof.signs" mapid="1210" xpos="707.2012" ypos="122.95" zpos="212.6075" guid="pgLOhCQVC0mtjzE4xYWb0g==" copy="We Completed (5/5) Hero Points & Finished Crystal Oasis! We Are Now Moving Onto Desert Highlands" copy-message="Finished Crystal Oasis Going To Desert Highlands Message Copied" autotrigger="1" triggerrange="1" iconfile="data/hp/zone_finish.png" />
+	<!-- HERO POINTS SMALL GROUP -->	
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="-484.2803" ypos="17.32965" zpos="-666.0035" guid="ciwilmImfU2eAw8tncG/FA==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 1/5) Starting [Veteran Confessor Opeyemi] Now! Be Sure To Tag The Mob!" copy-message=" Veteran Confessor Opeyemi Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/co/co_hp_vco.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="-878.1573" ypos="36.5428" zpos="655.862" guid="yN10DUZ+wk28Mx5ImPOBUg==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/5) Starting [Abandoned Forged Ore] Now! Be Sure To Tag The Mob!" copy-message=" Abandoned Forged Ore Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/co/co_hp_afo.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="-249.5778" ypos="33.77243" zpos="388.7226" guid="U7K7Lt0Pykm7El3GQ2Zizw==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 3/5) Starting [Wind-Worn Bottle] Now! Be Sure To Tag The Mob!" copy-message=" Wind-Worn Bottle Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/co/co_hp_wwb.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="271.774" ypos="54.9202" zpos="568.125" guid="IU1jICNbv0OkaRPm8jdVIg==" copy="(HP 4/5) Everyone Commune With [Unearthed Ruins]. Moving On In 15 Seconds." copy-message=" Unearthed Ruins Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/co/co_hp_ur.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1210" xpos="1258.75" ypos="286.02" zpos="460.49" guid="ZFJ3vrmPtEubaZLfmyl0Dg==" copy="(HP 5/5) Everyone Commune With [Branded Pyramid]. Moving On In 15 Seconds." copy-message=" Branded Pyramid Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/co/co_hp_bp.png" />
+	<!-- HERO POINTS BIG GROUP -->	
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-484.2803" ypos="17.32965" zpos="-666.0035" guid="ciwilmImfU2eAw8tncG/FA==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 1/5) We Are Going To Do [Veteran Confessor Opeyemi] Twice. Please Help With Both To Speed Things Up!" copy-message=" Veteran Confessor Opeyemi Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/co/co_hp_vco.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-488.783" ypos="17.29329" zpos="-659.6837" guid="LTFCO1qAYE6kcdDLAyC5IA==" copy="(HP 1/5) Now Starting [Veteran Confessor Opeyemi] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message=" Veteran Confessor Opeyemi Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-878.1573" ypos="36.5428" zpos="655.862" guid="yN10DUZ+wk28Mx5ImPOBUg==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/5) We Are Going To Do [Abandoned Forged Ore] Twice. Please Help With Both To Speed Things Up!" copy-message=" Abandoned Forged Ore Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/co/co_hp_afo.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-886.6041" ypos="34.57168" zpos="652.4355" guid="VFgkgjZcaUmty8/heNE5fw==" copy="(HP 2/5) Now Starting [Abandoned Forged Ore] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message=" Abandoned Forged Ore Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-249.5778" ypos="33.77243" zpos="388.7226" guid="U7K7Lt0Pykm7El3GQ2Zizw==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 3/5) We Are Going To Do [Wind-Worn Bottle] Twice. Please Help With Both To Speed Things Up!" copy-message=" Wind-Worn Bottle Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/co/co_hp_wwb.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="-245.2142" ypos="34.83389" zpos="379.6891" guid="+RazOx1tn0+yCvtH9I+ieQ==" copy="(HP 3/5) Now Starting [Wind-Worn Bottle] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message=" Wind-Worn Bottle Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="271.774" ypos="54.9202" zpos="568.125" guid="IU1jICNbv0OkaRPm8jdVIg==" copy="(HP 4/5) Everyone Commune With [Unearthed Ruins]. Moving On In 30 Seconds." copy-message=" Unearthed Ruins Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/co/co_hp_ur.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1210" xpos="1258.75" ypos="286.02" zpos="460.49" guid="ZFJ3vrmPtEubaZLfmyl0Dg==" copy="(HP 5/5) Everyone Commune With [Branded Pyramid]. Moving On In 30 Seconds." copy-message=" Branded Pyramid Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/co/co_hp_bp.png" />
+	<!-- MOUNTS -->
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="-694.5031" ypos="37.75468" zpos="305.4174" GUID="AsI8xX4aLE2ST27j2RmlbA==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="801.999" ypos="63.73664" zpos="-149.1487" GUID="m4iE/gBXRkmyU9Yyavc27A==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="955.6075" ypos="190.004" zpos="375.423" GUID="ZTGtdSkdAUSlj5h2YyUtQA==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="1256.316" ypos="285.8092" zpos="459.157" GUID="NqPjlZRC/kqmw+nLq7hZ7w==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="1197.499" ypos="258.9141" zpos="441.737" GUID="MF52BnyzVkqW72NDN/6JuQ==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="-731.7236" ypos="-0.5074127" zpos="381.072" GUID="SCmVIVPDqkO4rTKWMnkQDg==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="-875.5206" ypos="34.72152" zpos="643.5001" GUID="/fdSMWuHYUSTuXz70Y6b1w==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="-226.0575" ypos="35.78485" zpos="380.3284" GUID="Krbx4HF1702PQkNhJa+emQ==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="158.6989" ypos="79.82581" zpos="496.3838" GUID="p4BaSDoQF0mZ+c8XnyUF9A==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="301.381" ypos="59.19458" zpos="569.2084" GUID="M4hPhykKW0SxKkL9kmr4kg==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="1091.282" ypos="179.751" zpos="408.228" GUID="0JtpSFKQaUG20e3rGS4XwA==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="857.7529" ypos="122.9535" zpos="355.6243" GUID="x6vTEcRxpkSgSLYzoRbHoQ==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1210" xpos="881.7192" ypos="9.465839" zpos="-197.1954" GUID="rab/k2QTzUeiKpXGhQXCYw==" iconfile="data/hp/mount_raptor.png" />
+	<!-- MARKS -->
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="1096.088" ypos="179.8867" zpos="409.627" GUID="gd7BNjOcXEW3+ppZX07tXQ==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="1158.937" ypos="220.9261" zpos="425.4742" GUID="LgMwb7OdIE2Vwh0c1S5J7Q==" tip-name="Circle" tip-description="Place A Circle Here" iconfile="data/hp/mark_circle.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="1240.518" ypos="278.4851" zpos="454.8789" GUID="4dyZ9VvB90i/m4vO7Xg8hA==" tip-name="Swirl" tip-description="Place A Swirl Here" iconfile="data/hp/mark_swirl.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="1228.434" ypos="272.0928" zpos="451.1558" GUID="LbtuZoUaeUSUBX19Rpe8fA==" tip-name="Square" tip-description="Place A Square Here" iconfile="data/hp/mark_square.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="1203.456" ypos="261.7095" zpos="443.486" GUID="JrH8tYm1WUumncnzR0hsWA==" tip-name="Triangle" tip-description="Place A Triangle Here" iconfile="data/hp/mark_triangle.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="-726.5357" ypos="-0.5091094" zpos="371.658" GUID="fGyN/o28aEurMoStbLXf4w==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="866.3695" ypos="125.4642" zpos="357.614" GUID="O8x7y3w2PUqIn6Py6ecQ2Q==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1210" xpos="874.1095" ypos="9.545422" zpos="-197.711" GUID="aq2u+cXZu063+D5L7SLXsQ==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+	<!-- SPECIAL INSTRUCTIONS -->	
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1210" xpos="-760.0184" ypos="1.992116" zpos="438.1039" GUID="N5ujSsfiN0qcKowFG4uXWw==" tip-name="Avoid Red Circles" tip-description="Warn people to watch out for cave-ins on the way to the next hero point" iconfile="data/hp/co/co_hp_2_instructions.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1210" xpos="-867.0362" ypos="36.30749" zpos="636.8626" GUID="x7KWx3syV0iZlPUb6QLgqg==" tip-name="Avoid Red Circles" tip-description="Warn people to watch out for cave-ins on the way to the next hero point" iconfile="data/hp/co/co_hp_2_instructions.png" />
+	</pois>
+</overlaydata>

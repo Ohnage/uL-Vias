@@ -13,7 +13,7 @@
 		<trail type="ul.ulresfarm.ulbulkfarm.laudren" traildata="trails/res/res-uL_bulk-laudren.trl" texture="data/farm/farm_trail.png" mapid="53" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
 	<!-- ADVENTURE GUIDE STEPS -->	
 		<poi type="ul.ulresfarm.ulbulkfarm.laudren" mapid="53" xpos="298.9599" ypos="13.13063" zpos="-336.92" guid="3pi8p/kORUWQQFbQ6MBhTw==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-laudren.png" />
-		<poi type="ul.ulresfarm.ulbulkfarm.laudren" mapid="53" xpos="324.0612" ypos="2.40691" zpos="-320.7186" guid="CattX0wLhMk6KQjgtsFWGYQ==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.laudren" mapid="53" xpos="324.0612" ypos="2.40691" zpos="-320.7186" guid="knPimcfE3U6LyOqVqhISyQ==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
 	</pois>
 </overlaydata>
 

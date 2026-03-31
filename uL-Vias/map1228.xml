@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██╗  ██╗███████╗██████╗  ██████╗     ██████╗  ██████╗ ██╗███╗   ██╗████████╗    ████████╗██████╗  █████╗ ██╗███╗   ██╗
+██║  ██║██╔════╝██╔══██╗██╔═══██╗    ██╔══██╗██╔═══██╗██║████╗  ██║╚══██╔══╝    ╚══██╔══╝██╔══██╗██╔══██╗██║████╗  ██║
+███████║█████╗  ██████╔╝██║   ██║    ██████╔╝██║   ██║██║██╔██╗ ██║   ██║          ██║   ██████╔╝███████║██║██╔██╗ ██║
+██╔══██║██╔══╝  ██╔══██╗██║   ██║    ██╔═══╝ ██║   ██║██║██║╚██╗██║   ██║          ██║   ██╔══██╗██╔══██║██║██║╚██╗██║
+██║  ██║███████╗██║  ██║╚██████╔╝    ██║     ╚██████╔╝██║██║ ╚████║   ██║          ██║   ██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulhp.pof.er.commtrails" traildata="trails/hp/pof/er-uL_comm.trl" mapid="1228" />
+		<trail type="ul.ulhp.pof.er.alttrails" traildata="trails/hp/pof/er-uL_alt.trl" mapid="1228" />
+		<trail type="ul.ulhp.pof.er.trails" traildata="trails/hp/pof/er-uL_hp.trl" mapid="1228" />
+	<!-- PORTALS -->
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="661.24" ypos="102.446" zpos="829.282" guid="OPx1ie28+UG5woasUHIOLg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="746.017" ypos="97.9799" zpos="773.997" guid="LFyoIePsSEOeFoj43a3gkw==" iconfile="data/hp/port_out_mimic.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-538.159" ypos="5.73689" zpos="47.0731" guid="36agLHMtEEGt8poe8KxLzw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-536.649" ypos="5.75985" zpos="88.8259" guid="bFWwBuSJZ0CtCXlv975M9Q==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-403.286" ypos="8.83979" zpos="-236.782" guid="jEoEDQ10AUSH5ivsT6YvmA==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-354.474" ypos="5.96113" zpos="-269.537" guid="V2xf0RYP0k6zbsLkCQIPIw==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-868.744" ypos="1.36469" zpos="-703.399" guid="qgHpS/Fu4U25vbwmzTjgQw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-908.75" ypos="27.1585" zpos="-752.642" guid="+4GcugPt/kmfKTYihe5Spw==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="638.154" ypos="8.86718" zpos="-371.164" guid="+9FjNF7I7EasXVSg+buQ2g==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="648.389" ypos="48.9803" zpos="-445.253" guid="JzCEiG7rAECEU8Rg0qJgfQ==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="750.963318" ypos="97.978767" zpos="715.999451" guid="6+uL9N79BEyjwjerirWugg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="867.920837" ypos="110.379311" zpos="738.325256" guid="TtoSYgNNRE2MbW1JxiVxMA==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="661.24" ypos="102.446" zpos="829.282" guid="5Ut4IFtq3UWz5lVfrv2ntg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="746.017" ypos="97.9799" zpos="773.997" guid="vqDdkUMwLk2qSdAU/lxzUA==" iconfile="data/hp/port_out_mimic_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-538.159" ypos="5.73689" zpos="47.0731" guid="ktNK7EZvyEOAAFIO8aC7lw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-536.649" ypos="5.75985" zpos="88.8259" guid="tJ83bXe3oUq2tO64DarB/g==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-403.286" ypos="8.83979" zpos="-236.782" guid="jaxbQ3MZ8U29FXMZnlmWfQ==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-354.474" ypos="5.96113" zpos="-269.537" guid="vPBMwewiT0eEuQVqYeT6Dw==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-868.744" ypos="1.36469" zpos="-703.399" guid="BxF6XFA2AUioTBokk0ov1Q==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-908.75" ypos="27.1585" zpos="-752.642" guid="54jFPOw11kO5ztuldIg16g==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="638.154" ypos="8.86718" zpos="-371.164" guid="KWStostY6UmtPfH66vdXjQ==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="648.389" ypos="48.9803" zpos="-445.253" guid="5qIkYs6vokKfv1epyC3MbQ==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="750.963318" ypos="97.978767" zpos="715.999451" guid="5mCy5FTpDkaeeNMsFwkmSw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="867.920837" ypos="110.379311" zpos="738.325256" guid="jtn01SPD70qu2fp5X64EfQ==" iconfile="data/hp/port_out.png" />
+	<!-- START/READY CHECK/TIMERS -->		
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="614.2533" ypos="98.14329" zpos="921.8607" guid="H/u+y632GEeKcw8Fc9NN/A==" iconfile="data/hp/zone_start.png" />
+	<!-- TRAIL PARTS -->	
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="640.1898" ypos="86.58791" zpos="566.6401" guid="LyHQeWa92Uu/bfZhvNU8Sg==" behavior="1" iconfile="data/hp/hp3.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="-575.794" ypos="3.74839" zpos="-23.4422" guid="kjPwC3CUg06x1vMkZhyg8g==" behavior="1" iconfile="data/hp/hp6.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="216.007" ypos="35.5181" zpos="90.1056" guid="GPBWtQMghUm6x92xfpa5fw==" behavior="1" iconfile="data/hp/hp8.png" />
+	<!-- WAYPOINTS -->		
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="234.100845" ypos="33.528603" zpos="106.867134" guid="ISjq9xesOkaCFFVbUFMlSA==" iconfile="data/hp/grab_waypoint.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="-481.143555" ypos="27.948584" zpos="9.85914" guid="mrZxG5deXk+cyTg3oWb7+w==" iconfile="data/hp/grab_waypoint.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="-991.309" ypos="74.5228" zpos="817.16" guid="kktaCRb7l0u5x0fs7MMOWw==" copy="Meet Back At [&BGcKAAA=]" copy-message="Skimmer Ranch Waypoint Message Copied" autotrigger="1" triggerrange="1" iconfile="data/hp/er/pof_wp_skimmer.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="-907.794" ypos="9.63666" zpos="-859.374" guid="T9yARnFyxkGR5VYdsHxKuA==" copy="Meet Back At [&BCgKAAA=]" copy-message="Olishar's Oasis Camp Waypoint Message Copied" autotrigger="1" triggerrange="1" iconfile="data/hp/er/pof_wp_olishar.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="1054.065" ypos="80.65743" zpos="907.0908" guid="p72/Jn3jbUGj+wKNp1Oygg==" copy="Meet Back At [&BFMKAAA=]" copy-message="Augury's Shadow Waypoint Message Copied" autotrigger="1" triggerrange="1" iconfile="data/hp/er/pof_wp_augury.png" />
+	<!-- COMPLETED/END -->		
+		<poi type="ul.ulhp.pof.signs" mapid="1228" xpos="664.5714" ypos="50.51304" zpos="-459.7513" guid="2w0RoF+7mkO2KTb8A1tXqA==" copy="We Completed (8/8) Hero Points & Finished Elon Riverlands! We Are Now Moving Onto The Desolation." copy-message="Elon Riverlands Finished. Starting The Desolation Message Copied" autotrigger="1" triggerrange="10" iconfile="data/hp/zone_finish.png" /> 
+	<!-- HERO POINTS SMALL GROUP -->	
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="740.55" ypos="98.0404" zpos="738.743" guid="LC2SY9/oqUSKIxHsvIV8Nw==" copy="(HP 1/8) Everyone Commune With [Forgotten Shrine]. Moving On In 15 Seconds." copy-message="Forgotten Shrine Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/er/er_hp_fs.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="1058.629" ypos="80.71198" zpos="889.5893" guid="N4ccmbUE8U2aZ/7YGKzHlQ==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/8) Starting [Branded Relic] Now! Be Sure To Tag The Mob!" copy-message="Branded Relic Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_br.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-54.53449" ypos="75.63754" zpos="201.9635" guid="xRo6r/UCFku1Rm8CHrOjtA==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 3/8) Starting [General's Grave] Now! Be Sure To Tag The Mob!" copy-message="General's Grave Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_gg.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-502.1518" ypos="69.2168" zpos="526.1841" guid="xYK1/bWoGkmEUM9Z+EFFQg==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 4/8) Starting [Veteran Trunt] Now! Be Sure To Tag The Mob!" copy-message="Veteran Trunt Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_vt.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-980.9664" ypos="73.87373" zpos="808.0766" guid="TfwsGOdkHUeHU8oTmBuu5g==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 5/8) Starting [Fresh Meat] Now! Be Sure To Tag The Mob!" copy-message="Fresh Meat Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_fm.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-361.6748" ypos="3.404579" zpos="-296.6262" guid="uU9r1wmQl0agk4xK5Hv1fw==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 6/8) Starting [Lohrashi the Mournful] Now! Be Sure To Tag The Mob!" copy-message="Lohrashi the Mournful Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_ltm.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="-908.21" ypos="9.81732" zpos="-851.073" guid="0kbyPXsFZUaRsMk+MTbC5w==" copy="(HP 7/8) Everyone Commune With [Throne of Pellentia]. Moving On In 15 Seconds." copy-message="Throne of Pellentia Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/er/er_hp_top.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1228" xpos="659.985" ypos="53.3392" zpos="-452.262" guid="qcAqBD0d10mJ20FCz8FhTw==" copy="(HP 8/8) Everyone Commune With [Fallen Giant]. Moving On In 15 Seconds." copy-message="Fallen Giant Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/er/er_hp_fg.png" />
+	<!-- HERO POINTS LARGE GROUP -->	
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="740.55" ypos="98.0404" zpos="738.743" guid="LC2SY9/oqUSKIxHsvIV8Nw==" copy="(HP 1/8) Everyone Commune With [Forgotten Shrine]. Moving On In 30 Seconds." copy-message="Forgotten Shrine Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/er/er_hp_fs.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="1058.629" ypos="80.71198" zpos="889.5893" guid="N4ccmbUE8U2aZ/7YGKzHlQ==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/8) We Are Going To Do [Branded Relic] Twice. Please Help With Both To Speed Things Up!" copy-message="Branded Relic Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_br.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="1062.224" ypos="80.64011" zpos="902.7457" guid="ZFBuvR5klUuQyF9d2y+Viw==" copy="(HP 2/8) Now Starting [Branded Relic] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Branded Relic Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-54.53449" ypos="75.63754" zpos="201.9635" guid="xRo6r/UCFku1Rm8CHrOjtA==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 3/8) We Are Going To Do [General's Grave] Twice. Please Help With Both To Speed Things Up!" copy-message="General's Grave Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_gg.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-64.07497" ypos="75.70718" zpos="198.264" guid="QJT+c7dEM0KvvNypGg8IDg==" copy="(HP 3/8) Now Starting [General's Grave] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="General's Grave Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-502.1518" ypos="69.2168" zpos="526.1841" guid="xYK1/bWoGkmEUM9Z+EFFQg==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 4/8) We Are Going To Do [Veteran Trunt] Twice. Please Help With Both To Speed Things Up!" copy-message="Veteran Trunt Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_vt.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-508.335" ypos="69.51517" zpos="530.3492" guid="uoY6XkU5HUeKLWonfX3VuQ==" copy="(HP 4/8) Now Starting [Veteran Trunt] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Veteran Trunt Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-980.9664" ypos="73.87373" zpos="808.0766" guid="TfwsGOdkHUeHU8oTmBuu5g==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 5/8) We Are Going To Do [Fresh Meat] Twice. Please Help With Both To Speed Things Up!" copy-message="Fresh Meat Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_fm.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-984.0019" ypos="73.91846" zpos="814.745" guid="dULnODubYEShh0zwzphl+w==" copy="(HP 5/8) Now Starting [Fresh Meat] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Fresh Meat Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-361.6748" ypos="3.404579" zpos="-296.6262" guid="uU9r1wmQl0agk4xK5Hv1fw=="  bounce="rise" bounce-height="3" bounce-duration="0.7"copy="(HP 6/8) We Are Going To Do [Lohrashi the Mournful] Twice. Please Help With Both To Speed Things Up!" copy-message="Lohrashi the Mournful Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/er/er_hp_ltm.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-357.1946" ypos="3.457405" zpos="-301.1294" guid="clClSu4Qb0CaSqBEFAEqtg==" copy="(HP 6/8) Now Starting [Lohrashi the Mournful] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Lohrashi the Mournful Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="-908.21" ypos="9.81732" zpos="-851.073" guid="0kbyPXsFZUaRsMk+MTbC5w==" copy="(HP 7/8) Everyone Commune With [Throne of Pellentia]. Moving On In 30 Seconds." copy-message="Throne of Pellentia Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/er/er_hp_top.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1228" xpos="659.985" ypos="53.3392" zpos="-452.262" guid="qcAqBD0d10mJ20FCz8FhTw==" copy="(HP 8/8) Everyone Commune With [Fallen Giant]. Moving On In 30 Seconds." copy-message="Fallen Giant Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/er/er_hp_fg.png" />
+	<!-- MOUNTS -->	
+		<POI type="ul.ulhp.pof.mounts" MapID="1228" xpos="-65.72345" ypos="75.90984" zpos="188.6301" GUID="+KXFteU90Uq681/4jkrVzQ==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1228" xpos="-515.4453" ypos="70.05963" zpos="545.0864" GUID="PpCPIlfxRUWcxux/tc7zOg==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1228" xpos="644.2012" ypos="1.768802" zpos="-568.6098" GUID="tqj+05Vtdk6XSIsSA4TKwA==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1228" xpos="676.2038" ypos="40.07194" zpos="-483.5534" GUID="AvZf1ulD+UyFTC1pVv6hBQ==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1228" xpos="1032.266" ypos="252.0355" zpos="-207.9447" GUID="fdqhgOqVXEyESls9kaZYRA==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1228" xpos="-441.673" ypos="0.3118551" zpos="-362.4517" GUID="8O01PfZ3IkqihDxCPQAsUg==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1228" xpos="875.5892" ypos="110.185" zpos="741.1734" GUID="4weA0UZrKk+mYe83+QyoHA==" iconfile="data/hp/mount_raptor.png" />
+	<!-- MARKS -->
+		<POI type="ul.ulhp.pof.marks" MapID="1228" xpos="652.9307" ypos="2.635626" zpos="-561.4415" GUID="d3Ad5p2a6EqrS7+LafKoOQ==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+	<!-- SPECIAL INSTRUCTIONS -->
+	</pois>
+</overlaydata>

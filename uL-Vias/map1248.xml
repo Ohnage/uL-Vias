@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██╗  ██╗███████╗██████╗  ██████╗     ██████╗  ██████╗ ██╗███╗   ██╗████████╗    ████████╗██████╗  █████╗ ██╗███╗   ██╗
+██║  ██║██╔════╝██╔══██╗██╔═══██╗    ██╔══██╗██╔═══██╗██║████╗  ██║╚══██╔══╝    ╚══██╔══╝██╔══██╗██╔══██╗██║████╗  ██║
+███████║█████╗  ██████╔╝██║   ██║    ██████╔╝██║   ██║██║██╔██╗ ██║   ██║          ██║   ██████╔╝███████║██║██╔██╗ ██║
+██╔══██║██╔══╝  ██╔══██╗██║   ██║    ██╔═══╝ ██║   ██║██║██║╚██╗██║   ██║          ██║   ██╔══██╗██╔══██║██║██║╚██╗██║
+██║  ██║███████╗██║  ██║╚██████╔╝    ██║     ╚██████╔╝██║██║ ╚████║   ██║          ██║   ██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulhp.pof.dov.commtrails" traildata="trails/hp/pof/dov-uL_comm.trl" mapid="1248" />
+		<trail type="ul.ulhp.pof.dov.alttrails" traildata="trails/hp/pof/dov-uL_alt.trl" mapid="1248" />
+		<trail type="ul.ulhp.pof.dov.trails" traildata="trails/hp/pof/dov-uL_hp.trl" mapid="1248" />
+	<!-- PORTALS -->	
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="464.921" ypos="127" zpos="-313.427" guid="LK1zc7NhM0uS2GldVflmGg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="546.598" ypos="167.193" zpos="-256.536" guid="zX6ZAt8si0+tyx9DPCU9bQ=="  iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="915.914917" ypos="2.582079" zpos="173.882645" guid="xc+Qp7J5TEmkBzLhN8BR4g==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="998.2776" ypos="1.632446" zpos="256.8672" guid="BbEoyG8TJkKX7HVIqxYN+w==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="-663.3511" ypos="110.9685" zpos="-532.9265" guid="c2fgBsyqF0aqFiS5PJjb0w==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="-733.2269" ypos="193.2059" zpos="-584.9724" guid="b+360E7utUKoiAXm8sNJnA==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="464.921" ypos="127" zpos="-313.427" guid="+u7pTHBUTECL4D610PtCQw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="546.598" ypos="167.193" zpos="-256.536" guid="Jj+8w2ECm0OigfnuYpDSvg=="  iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="915.914917" ypos="2.582079" zpos="173.882645" guid="oOfHEpCBi0ePePINw8p+2Q==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="998.2776" ypos="1.632446" zpos="256.8672" guid="vaYYpSDVjUektbd7C5Z8Fg==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="-663.3511" ypos="110.9685" zpos="-532.9265" guid="gi4v8LXv3kyaEvCyCnTdWg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="-733.2269" ypos="193.2059" zpos="-584.9724" guid="ZF86aT5zPEiJ+zp4l0QQ0g==" iconfile="data/hp/port_out_big.png" />
+	<!-- START/READY CHECK/TIMERS -->		
+		<poi type="ul.ulhp.pof.signs" mapid="1248" xpos="-1372.845" ypos="71.58054" zpos="770.7017" guid="wtX8luHM3kGq7hq730aoSA==" iconfile="data/hp/zone_start.png" />
+	<!-- TRAIL PARTS -->
+		<poi type="ul.ulhp.pof.signs" mapid="1248" xpos="-559.5902" ypos="116.3848" zpos="-427.9048" guid="7l3J7fxTB0+GCHfc2o68Xg==" behavior="1" behavior="1" iconfile="data/hp/hp2.png" />
+	<!-- WAYPOINTS -->	
+		<poi type="ul.ulhp.pof.signs" mapid="1226" xpos="-583.3472" ypos="116.4982" zpos="-365.8577" guid="3doCd7Kr5USvqhh3EE29NQ==" iconfile="data/hp/grab_waypoint.png" />
+		<poi type="ul.ulhp.pof.signs" mapid="1226" xpos="-807.6411" ypos="200.9478" zpos="-709.3534" guid="PW7lm3IcbU+LGezhLG/hNA==" copy="Meet Back At [&BEoKAAA=]" copy-message="Bonestrand Waypoint Message Copied" autotrigger="1" triggerrange="1" iconfile="data/hp/dov/pof_wp_necropolis.png" />
+	<!-- COMPLETED/END -->	
+		<poi type="ul.ulhp.pof.signs" mapid="1248" xpos="1156.597656" ypos="79.394691" zpos="316.1073" guid="1KGaRpavf0eh51eFwN1hNw==" copy="We Completed (3/3) Hero Points & Finished Domain of Vabbi! This PoF HP Train Has Completed (29/29) Locations Giving 290 Total Hero Points! Thanks To Everyone Who Came & Good Luck!" copy-message="This PoF HP Train Has Completed Message Copied" autotrigger="1" triggerrange="20" iconfile="data/hp/hp_finish.png" />
+	<!-- HERO POINTS SMALL GROUP -->	
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="-811.7543" ypos="200.8248" zpos="-699.1494" guid="JyJ/Tfn0iUShLHFqPXGDAw==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 1/3) Starting [Mother Tharwa] Now! Be Sure To Tag The Mob!" copy-message="Mother Tharwa Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/dov/dov_hp_mt.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="110.6372" ypos="23.24219" zpos="-285.0865" guid="R84iyuYovEC6mT6fQXWY5Q==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/3) Starting [Master Utku] Now! Be Sure To Tag The Mob!" copy-message="Master Utku Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/dov/dov_hp_mu.png" />
+		<poi type="ul.ulhp.pof.hp_sm" mapid="1248" xpos="1148.162" ypos="77.55178" zpos="317.6142" guid="b/yBvmtSd0yNUXKFnozI4A==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 3/3) Starting [Hunter Glorg] Now! Be Sure To Tag The Mob!" copy-message="Hunter Glorg Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/dov/dov_hp_hg.png" />
+	<!-- HERO POINTS BIG GROUP -->	
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="-811.7543" ypos="200.8248" zpos="-699.1494" guid="JyJ/Tfn0iUShLHFqPXGDAw==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 1/3) We Are Going To Do [Mother Tharwa] Twice. Please Help With Both To Speed Things Up!" copy-message="Mother Tharwa Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/dov/dov_hp_mt.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1226" xpos="-805.2322" ypos="200.8558" zpos="-703.247" guid="2jYKHprM2kyyNJfjJ+M2PQ==" copy="(HP 1/3) Now Starting [Mother Tharwa] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Mother Tharwa Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="110.6372" ypos="23.24219" zpos="-285.0865" guid="R84iyuYovEC6mT6fQXWY5Q==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/3) We Are Going To Do [Master Utku] Twice. Please Help With Both To Speed Things Up!" copy-message="Master Utku Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/dov/dov_hp_mu.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1226" xpos="110.4631" ypos="23.20437" zpos="-279.7569" guid="MGVvW0LU/EapuHWXSyoCTg==" copy="(HP 2/3) Now Starting [Master Utku] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Master Utku Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1248" xpos="1148.162" ypos="77.55178" zpos="317.6142" guid="b/yBvmtSd0yNUXKFnozI4A==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 3/3) We Are Going To Do [Hunter Glorg] Twice. Please Help With Both To Speed Things Up!" copy-message="Hunter Glorg Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/dov/dov_hp_hg.png" />
+		<poi type="ul.ulhp.pof.hp_big" mapid="1226" xpos="1152.532" ypos="77.35729" zpos="322.1631" guid="hVgnEITz5E2Fp9WjofRzQg==" copy="(HP 3/3) Now Starting [Hunter Glorg] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Hunter Glorg Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+	<!-- MOUNTS -->
+		<POI type="ul.ulhp.pof.mounts" MapID="1248" xpos="-739.2039" ypos="190.7273" zpos="-593.142" GUID="Lr/yzpLi+0O4zZUmAlY7RA==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1248" xpos="131.0401" ypos="23.50401" zpos="-288.6658" GUID="BVartCQ6OUGu4sU5ouZj+w==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1248" xpos="-1297.772" ypos="41.42357" zpos="735.5326" GUID="522XCsa/tkSL5GIlX5bs+w==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1248" xpos="-1390.193" ypos="87.2691" zpos="786.5796" GUID="Rnf5E/6dJ0SzxrsRvwJKEQ==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1248" xpos="-1364.615" ypos="71.15435" zpos="764.5681" GUID="/kCw6W01/kGoW7f0pBqaLA==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.pof.mounts" MapID="1248" xpos="43.81811" ypos="105.8001" zpos="-330.7169" GUID="kiGmJj2va0K41o+QYmXFJQ==" iconfile="data/hp/mount_glide.png" />
+	<!-- MARKS -->
+		<POI type="ul.ulhp.pof.marks" MapID="1248" xpos="-1310.42" ypos="41.35919" zpos="741.4719" GUID="YJSZRPnPnk6lMDaqQe565Q==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1248" xpos="94.90003" ypos="23.6657" zpos="-295.906" GUID="IDvTdEc9rUyu5rJxhG5R4A==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.pof.marks" MapID="1248" xpos="812.7021" ypos="142.5384" zpos="57.70612" GUID="e8oNux7tnkCuD6CecaLxBA==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+	<!-- SPECIAL INSTRUCTIONS -->
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="179.1404" ypos="22.63832" zpos="-294.475" guid="uHs/lCi2iEacAWYP/IVwCA==" iconfile="data/hp/dov/dov_enter_ele.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="598.251221" ypos="141.930969" zpos="-139.132019" guid="BWk2mojCMkOSxh/eioY59Q==" iconfile="data/hp/dov/dov_safe.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="715.380249" ypos="150.44075" zpos="-117.273949" guid="ZdnBHvTtY0OeC+8DJ6/NXw==" copy="**REMOUNT** Remount to reset your mounts health. Leaving For Next Marker In 10 Seconds." copy-message="Remount Message Copied" autotrigger="1" triggerrange="10" iconfile="data/hp/dov/dov_safe.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="751.126892" ypos="150.402649" zpos="-115.534004" guid="p6MO2+JzskGhwcPEYB20kw==" iconfile="data/hp/dov/dov_safe.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="755.3112" ypos="152.7544" zpos="-88.99006" guid="152BLUdmFEGAIOfWMGoKlA==" iconfile="data/hp/dov/dov_safe.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="1015.416565" ypos="18.567471" zpos="310.823975" guid="RKHcgZOB8UeX8eeKHTooCQ==" iconfile="data/hp/dov/dov_safe.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="1081.859497" ypos="67.042404" zpos="297.799072" guid="Ut2Z2YlVPEW04zn/mWmVKA==" iconfile="data/hp/dov/dov_safe.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="286.0299" ypos="69.20424" zpos="-416.6462" guid="X4Qt4lj8IUGR1uYufHbTZQ==" iconfile="data/hp/dov/dov_mount_and_run.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="557.469" ypos="169.492" zpos="-242.2294" guid="IchzTgYV3EWtIKBNNro+uA==" iconfile="data/hp/dov/dov_marker_to_marker.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="997.6475" ypos="1.630877" zpos="259.999" guid="IchzTgYV3EWtIKBNNro+uA==" iconfile="data/hp/dov/dov_marker_to_marker.png" />
+		<poi type="ul.ulhp.pof.ins_warn" mapid="1248" xpos="808.7833" ypos="144.9859" zpos="57.20602" guid="4nkonOTV1USH/A/zaNhGqA==" iconfile="data/hp/dov/dov_marker_to_marker.png" />
+	</pois>
+</overlaydata>   

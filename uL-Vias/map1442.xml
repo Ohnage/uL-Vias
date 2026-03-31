@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██╗  ██╗███████╗██████╗  ██████╗     ██████╗  ██████╗ ██╗███╗   ██╗████████╗    ████████╗██████╗  █████╗ ██╗███╗   ██╗
+██║  ██║██╔════╝██╔══██╗██╔═══██╗    ██╔══██╗██╔═══██╗██║████╗  ██║╚══██╔══╝    ╚══██╔══╝██╔══██╗██╔══██╗██║████╗  ██║
+███████║█████╗  ██████╔╝██║   ██║    ██████╔╝██║   ██║██║██╔██╗ ██║   ██║          ██║   ██████╔╝███████║██║██╔██╗ ██║
+██╔══██║██╔══╝  ██╔══██╗██║   ██║    ██╔═══╝ ██║   ██║██║██║╚██╗██║   ██║          ██║   ██╔══██╗██╔══██║██║██║╚██╗██║
+██║  ██║███████╗██║  ██║╚██████╔╝    ██║     ╚██████╔╝██║██║ ╚████║   ██║          ██║   ██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulhp.eod.sp.commtrails" traildata="trails/hp/eod/sp-uL_comm.trl" mapid="1442" />
+		<trail type="ul.ulhp.eod.sp.alttrails" traildata="trails/hp/eod/sp-uL_alt.trl" mapid="1442" />
+		<trail type="ul.ulhp.eod.sp.trails" traildata="trails/hp/eod/sp-uL_hp.trl" mapid="1442" />
+	<!-- PORTALS -->	
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-436.257" ypos="1.10896" zpos="-293.087" guid="7bYlut2RdUWmNap1wS9iig==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-495.476" ypos="38.5341" zpos="-345.607" guid="iOHSg0R7a0ehr7HKdEpcTA==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-614.844" ypos="104.339" zpos="-96.417" guid="4bJUVVbZQkmbljaeL07xEA==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-633.763" ypos="165.388" zpos="-72.5391" guid="BX3K6NlYzE+laSqL5FjkJg==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-430.999" ypos="0.489178" zpos="219.581" guid="tmTxBl/7LUiMbD1AHVReAA==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-425.348" ypos="77.7916" zpos="293.021" guid="3cdepN4nwEuA7NQXY88VkQ==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-44.2987" ypos="138.846" zpos="165.61" guid="Qi9nTcVMnUyjAncZCuMYMg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-74.3365" ypos="218.449" zpos="107.648" guid="5h67Oo0cbE+qjE9HTBjXqA==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="986.64" ypos="63.971" zpos="-339.91" guid="5oHib6f5hEyGSyB69G0j2Q==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="996.693" ypos="96.8307" zpos="-354.452" guid="4tPjRJWGBEGgeXOQYI+vow==" iconfile="data/hp/port_out.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="365.008118" ypos="37.485092" zpos="462.229675" guid="opJhpXJcd0y7TzhEQ3LXTg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="250.546509" ypos="65.953903" zpos="455.091492" guid="o/Q4jQLN8k+ysv7HDQqJZw==" iconfile="data/hp/port_out_mimic.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-436.257" ypos="1.10896" zpos="-293.087" guid="HcUUyP8hyk6SghRSJbhpCg==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-495.476" ypos="38.5341" zpos="-345.607" guid="hy1b7nIG1Uy3R+Qaomh4ZQ==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-614.844" ypos="104.339" zpos="-96.417" guid="UiVYSuJZCUa3Z0wkGUMNGw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-633.763" ypos="165.388" zpos="-72.5391" guid="tT9Hkuz/gE2nDCDYPcPWzw==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-430.999" ypos="0.489178" zpos="219.581" guid="To+CFgpgbkG6yJzGY5hoHA==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-425.348" ypos="77.7916" zpos="293.021" guid="ZQAw4t4Xnka4O6hrwRkx9w==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-44.2987" ypos="138.846" zpos="165.61" guid="N1kiYALPRU+QG/pD187W+A==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-74.3365" ypos="218.449" zpos="107.648" guid="0fAHRr2YjE2xZiDjr2vptw==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="986.64" ypos="63.971" zpos="-339.91" guid="lkIcubeWnECs9N6lj94/bw==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="996.693" ypos="96.8307" zpos="-354.452" guid="6oeAPt+uE0SfbxtwEzdMyQ==" iconfile="data/hp/port_out_big.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="365.008118" ypos="37.485092" zpos="462.229675" guid="83hW9fQkXUq4GDxsRNqaww==" iconfile="data/hp/port_in.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="250.546509" ypos="65.953903" zpos="455.091492" guid="vptNivPiQUOgbqL3xwTXlA==" iconfile="data/hp/port_out_mimic_big.png" />
+	<!-- START/READY CHECK/TIMERS -->	
+		<poi type="ul.ulhp.eod.signs" mapid="1442" xpos="-96.3921" ypos="12.5311" zpos="-183.026" guid="WgLuN8YaZk6iN0wSZqnZzQ==" iconfile="data/hp/hp_start.png" />
+	<!-- TRAIL PARTS -->
+		<poi type="ul.ulhp.eod.signs" mapid="1442" xpos="346.617" ypos="-1.05642" zpos="700.799" guid="0E68Y+rX/kK8+PrvOSbHOQ==" behavior="1" iconfile="data/hp/sp/sp_part2.png" />
+	<!-- WAYPOINTS -->	
+		<poi type="ul.ulhp.eod.signs" mapid="1442" xpos="301.660919" ypos="1.47937" zpos="703.309998" guid="3ymDIGV1nkSDny/TbFHHQg==" iconfile="data/hp/grab_waypoint.png" />
+	<!-- COMPLETED/END -->		
+		<poi type="ul.ulhp.eod.signs" mapid="1442" xpos="984.566" ypos="100.935" zpos="-370.144" guid="D2JeaLpwLUa2s/xuFRp9Zg==" copy="We Completed (9/9) Hero Points & Finished Seitung Province! We Are Now Moving Onto New Kaineng City. Everyone Please Meet Back Up At [&BGQNAAA=]" copy-message="Seitung Province Finished. Starting New Kaineng City Message Copied" autotrigger="1" triggerrange="10" iconfile="data/hp/zone_finish.png" />
+	<!-- HERO POINTS SMALL GROUP -->		
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-316.974" ypos="2.988" zpos="-216.925" guid="aVkphciO6kO9NHT+KfiM4Q==" copy="(HP 1/9) Everyone Commune With [Bloom of Seitung]. Moving On In 15 Seconds." copy-message="Bloom of Seitung Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/sp/sp_hp_bos.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-517.2483" ypos="46.20656" zpos="-369.9024" guid="O9QOSySXbU2oTW28IdO8ww==" bounce="rise" bounce-height="3" bounce-duration="0.7"  copy="(HP 2/9) Starting [Veteran Jade Bulwark] Now! Be Sure To Tag The Mob!" copy-message="Veteran Jade Bulwark Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/sp/sp_hp_vjb.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-640.218" ypos="163.347" zpos="-64.4477" guid="44VmNKxuykOW8zXeSJu2kg==" copy="(HP 3/9) Everyone Commune With [Village Overlook]. Moving On In 15 Seconds." copy-message="TVillage Overlook Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/sp/sp_hp_vo.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-412.033" ypos="2.24238" zpos="190.086" guid="B1iX7uHUBE6/3JiyrjNWqA==" copy="(HP 4/9) Everyone Commune With [Dog Statue]. Moving On In 15 Seconds." copy-message="Dog Statue Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/sp/sp_hp_ds.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-175.076" ypos="-26.7292" zpos="727.707" guid="M+/e86JOr0K9k8dRkUq4vQ==" copy="(HP 5/9) Everyone Commune With [Haiju Hatchery]. Moving On In 15 Seconds." copy-message="Haiju Hatchery Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/sp/sp_hp_hh.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="398.0721" ypos="36.23305" zpos="470.295" guid="45MK6WB8SkGii1Rv7TmIaA==" bounce="rise" bounce-height="3" bounce-duration="0.7"  copy="(HP 6/9) Starting [Old Bell Shrine] Now! Be Sure To Tag The Mob!" copy-message="Old Bell Shrine Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/sp/sp_hp_obs.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="-87.2832" ypos="217.819" zpos="86.1155" guid="q8uqYIDt/0WmZ+eMHRhgNQ==" copy="(HP 7/9) Everyone Commune With [Source of the Springs]. Moving On In 15 Seconds." copy-message="Source of the Springs Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/sp/sp_hp_sots.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="496.488" ypos="114.18" zpos="-183.991" guid="zDclWgExnEOwGsEn/ljyaA==" copy="(HP 8/9) Everyone Commune With [Cliffside Memorial Bell]. Moving On In 15 Seconds." copy-message="Cliffside Memorial Bell Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/sp/sp_hp_cmb.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1442" xpos="979.395" ypos="100.643" zpos="-360.598" guid="Jcul1dvH30ejwcpHY4zSJQ==" copy="(HP 9/9) Everyone Commune With [Village Overlook] (Yes... Again...). Moving On In 15 Seconds." copy-message="Village Overlook Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="20" hascountdown="1" iconfile="data/hp/sp/sp_hp_vo.png" />
+	<!-- HERO POINTS BIG GROUP -->		
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-316.974" ypos="2.988" zpos="-216.925" guid="aVkphciO6kO9NHT+KfiM4Q==" copy="(HP 1/9) Everyone Commune With [Bloom of Seitung]. Moving On In 30 Seconds." copy-message="Bloom of Seitung Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/sp/sp_hp_bos.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-517.2483" ypos="46.20656" zpos="-369.9024" guid="O9QOSySXbU2oTW28IdO8ww==" bounce="rise" bounce-height="3" bounce-duration="0.7"  copy="(HP 2/9) We Are Going To Do [Veteran Jade Bulwark] Twice. Please Help With Both To Speed Things Up!" copy-message="Veteran Jade Bulwark Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/sp/sp_hp_vjb.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-515.1985" ypos="46.18048" zpos="-374.6658" guid="N6nTmpEYLU+ERWU6UEwBGw==" copy="(HP 2/9) Now Starting [Veteran Jade Bulwark] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Veteran Jade Bulwark Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-640.218" ypos="163.347" zpos="-64.4477" guid="44VmNKxuykOW8zXeSJu2kg==" copy="(HP 3/9) Everyone Commune With [Village Overlook]. Moving On In 30 Seconds." copy-message="TVillage Overlook Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/sp/sp_hp_vo.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-412.033" ypos="2.24238" zpos="190.086" guid="B1iX7uHUBE6/3JiyrjNWqA==" copy="(HP 4/9) Everyone Commune With [Dog Statue]. Moving On In 30 Seconds." copy-message="Dog Statue Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/sp/sp_hp_ds.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-175.076" ypos="-26.7292" zpos="727.707" guid="M+/e86JOr0K9k8dRkUq4vQ==" copy="(HP 5/9) Everyone Commune With [Haiju Hatchery]. Moving On In 30 Seconds." copy-message="Haiju Hatchery Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/sp/sp_hp_hh.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="398.0721" ypos="36.23305" zpos="470.295" guid="45MK6WB8SkGii1Rv7TmIaA==" bounce="rise" bounce-height="3" bounce-duration="0.7"  copy="(HP 6/9) We Are Going To Do [Old Bell Shrine] Twice. Please Help With Both To Speed Things Up!" copy-message="Old Bell Shrine Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/sp/sp_hp_obs.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="403.1854" ypos="36.44159" zpos="471.8794" guid="wE3/IxvkDUWI/0a7T/ogUA==" copy="(HP 6/9) Now Starting [Old Bell Shrine] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Old Bell Shrine Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="1" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="-87.2832" ypos="217.819" zpos="86.1155" guid="q8uqYIDt/0WmZ+eMHRhgNQ==" copy="(HP 7/9) Everyone Commune With [Source of the Springs]. Moving On In 30 Seconds." copy-message="Source of the Springs Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/sp/sp_hp_sots.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="496.488" ypos="114.18" zpos="-183.991" guid="zDclWgExnEOwGsEn/ljyaA==" copy="(HP 8/9) Everyone Commune With [Cliffside Memorial Bell]. Moving On In 30 Seconds." copy-message="Cliffside Memorial Bell Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/sp/sp_hp_cmb.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1442" xpos="979.395" ypos="100.643" zpos="-360.598" guid="Jcul1dvH30ejwcpHY4zSJQ==" copy="(HP 9/9) Everyone Commune With [Village Overlook] (Yes... Again...). Moving On In 30 Seconds." copy-message="Village Overlook Message Copied" autotrigger="0" triggerrange="3" behavior="4" resetlength="35" hascountdown="1" iconfile="data/hp/sp/sp_hp_vo.png" />
+	<!-- MOUNTS -->
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-123.552" ypos="1.378088" zpos="-188.5731" GUID="b96lltsvmkuCM2GDBpFgmw==" iconfile="data/hp/mount_skiff.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-329.4535" ypos="2.06466" zpos="-226.6812" GUID="eSuprbGkAkm/ZuwuxjzHDQ==" iconfile="data/hp/mount_skiff.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-524.2104" ypos="49.06897" zpos="-364.3263" GUID="hfazZbfvn0iZkUE41EMDNg==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-634.5219" ypos="164.4136" zpos="-61.2474" GUID="gvI/8mWGO0q3dhgVsb+NBg==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-600.3123" ypos="143.9021" zpos="-40.34933" GUID="ooG079s88USU6OutbNuacg==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-435.4182" ypos="146.2552" zpos="173.2051" GUID="rUkI8pUrpki0RuZggSvzoA==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-420.7553" ypos="77.53739" zpos="300.7901" GUID="9O7fHPqSKEGCvI0nxrbrIA==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-163.283" ypos="62.51608" zpos="452.8936" GUID="uQDGYxn4ZEG+NtgOOtKdng==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-92.78801" ypos="2.581085" zpos="720.1113" GUID="3SyZa5SVXkeeTnaBuTZd+A==" iconfile="data/hp/mount_skiff.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="310.9643" ypos="3.504862" zpos="692.5869" GUID="68x9ZT5DoUuGeosHSns16w==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="241.2403" ypos="65.94201" zpos="450.5815" GUID="+6SejI1o8kyO0uYAHVlU0Q==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-65.14536" ypos="219.051" zpos="47.64816" GUID="g84HxgOv2ECZvXeYVF42FQ==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="-43.59646" ypos="37.9371" zpos="-47.62465" GUID="Yu9DLr9hckqst/8Uzi9gMw==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="490.2846" ypos="111.3526" zpos="-162.0743" GUID="Dd9maoCVZEOy5yco064NTA==" iconfile="data/hp/mount_glide.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="605.4022" ypos="26.4152" zpos="-135.3476" GUID="z/fQchqYlkerLi3zIrN2uw==" iconfile="data/hp/mount_raptor.png" />
+		<POI type="ul.ulhp.eod.mounts" MapID="1442" xpos="342.4948" ypos="2.027865" zpos="696.0112" GUID="lT0o95/Grk6gS7/Cfo57WQ==" iconfile="data/hp/mount_skiff.png" />
+	<!-- MARKS -->
+		<POI type="ul.ulhp.eod.marks" MapID="1442" xpos="-610.9448" ypos="146.3526" zpos="-46.32721" GUID="UhPcF/WJbUudlHB81HCICg==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.eod.marks" MapID="1442" xpos="-433.1108" ypos="134.2191" zpos="188.2421" GUID="CX8/5ZPPsUqZphTsveM6Cw==" tip-name="Swirl" tip-description="Place A Swirl Here" iconfile="data/hp/mark_swirl.png" />
+		<POI type="ul.ulhp.eod.marks" MapID="1442" xpos="-399.8362" ypos="0.3936929" zpos="198.7263" GUID="xsaOW3yyFECT8bpWa+NRYw==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.eod.marks" MapID="1442" xpos="-146.895" ypos="4.281544" zpos="547.0612" GUID="CQafTh8LNEiVTHBGXm//Kg==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.eod.marks" MapID="1442" xpos="-47.23298" ypos="40.24918" zpos="-38.20545" GUID="4grlbhMLhEWxoZFEy/SDxw==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+		<POI type="ul.ulhp.eod.marks" MapID="1442" xpos="592.9433" ypos="26.77932" zpos="-138.3523" GUID="JbXTA3+avkaUzdD67orQbg==" tip-name="Arrow" tip-description="Place A Arrow Here" iconfile="data/hp/mark_arrow.png" />
+	<!-- SPECIAL INSTRUCTIONS -->
+		<poi type="ul.ulhp.eod.ins_warn" mapid="1442" xpos="-156.4838" ypos="1.354666" zpos="582.3755" GUID="sgOtNAfflkG5SoRtY/xyQQ==" iconsize="1.8" minsize="1" iconfile="data/hp/alert.png" />
+	</pois>
+</overlaydata>

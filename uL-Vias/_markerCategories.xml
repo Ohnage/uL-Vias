@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <overlaydata>
 	<markercategory name="ul" displayname=" [- uL Vias -] ">
-		<markercategory name="ver" isseparator="1" displayname=" [- uL Vias - Mar 30 2026- v1.1.10 -] ">
+		<markercategory name="ver" isseparator="1" displayname=" [- uL Vias - Mar 31 2026- v2.1.0 -] ">
 			<markercategory name="dev" isseparator="1" displayname=" [- Underground Legends -] " />
 			<markercategory name="disc" isseparator="1" displayname=" [-  Join The uL Discord  -] " copy="https://discord.gg/QXvCbY9yY7" copy-message="The uL discord link was copied!" tip-description="Copy the link to join the ul discord & submit questions, comments, or suggestions!" />
 			<markercategory name="web" isseparator="1" displayname=" [-  Created By: Ohnage  -] " copy="/friend Ohnage.1638" copy-message="Chat command to add Ohnage to your friends copied!" tip-description="Copy chat command to add Ohnage to your in-game friends list to ask or share directly!" />
@@ -14,7 +14,7 @@
 				<markercategory name="ExtraM" displayname="Extra Steps [Map]" tip-description="Enable/Disable the Extra Steps images that are on the left/right of the zones when the map is active." />
 				<markercategory name="dmgtype" displayname="Select Damage Type" tip-description="Select whether you will be leveling as Power or Condition Damage&#xA;&#xA;(This effects the Trading Post messages)">
 					<markercategory name="power" displayname="Power Damage" tip-description="Select if you plan to level using power damage (recomended)" />
-					<markercategory name="condi" displayname="Condition Damage" toggledefault="0" tip-description="Select if you plan to level using condition damage" /></markercategory>
+					<markercategory name="condi" displayname="Condition Damage" defaulttoggle="0" tip-description="Select if you plan to level using condition damage" /></markercategory>
 				<markercategory name="volumes" isseparator="1" displayname=" [- Volumes -]" />
 				<markercategory name="cag1" displayname="Volume One" />
 				<markercategory name="cag2" displayname="Volume Two" />
@@ -22,6 +22,93 @@
 				<markercategory name="cag4" displayname="Volume Four" />
 				<markercategory name="cag5" displayname="Volume Five" />
 			</markercategory>
+		</markercategory>
+		<markercategory name="ulhp" displayname="Hero Point Train" fadenear="5000" fadefar="5100" animspeed="0" alpha="1" tip-description="Hero Point Train Created To Help Lead Groups.">
+			<markercategory name="hot" displayname=" [- Heart of Thorns -] ">
+				<markercategory name="zones" isseparator="1" displayname=" [- Zones -]" />
+					<markercategory name="vb" displayname="Verdant Brink">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="ab" displayname="Auric Basin">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2"minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="td" displayname="Tangled Depths">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+				<markercategory name="gs" isseparator="1" displayname=" [- Group Size -]" />
+				<markercategory name="hp_sm" displayname="Smaller Group" defaulttoggle="1" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" tip-description="This Is For A Smaller Group (Under 25)&#xA;• Less Commune Wait Time (15 Sec)&#xA;• Only Kill Once" />
+				<markercategory name="hp_big" displayname="Bigger Group" defaulttoggle="0" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" tip-description="This Is For A Bigger Group (Over 25)&#xA;• Longer Commune Wait Time (30 Sec)&#xA;• Double Kills Are Enabled" />
+				<markercategory name="op" isseparator="1" displayname=" [- Options -]" />
+				<markercategory name="signs" displayname="Signs" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" />
+				<markercategory name="mounts" displayname="Mount Markers" minimapvisibility="1" iconsize="1" mapvisibility="0" minSize="50" bounce="rise" bounce-height="3" bounce-duration="0.4" autotrigger="1" triggerrange="5" heightOffset="2" />
+				<markercategory name="marks" displayname="Mark Locations" minimapvisibility="1" iconsize="1" mapvisibility="0" minSize="50" bounce="rise" bounce-height="2" bounce-duration="0.2" autotrigger="1" triggerrange="5" heightOffset="2" />
+				<markercategory name="ins_warn" displayname="Instructions & Warnings" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" />
+				<markercategory name="hazards" displayname="Hazard Warning Signs" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="75" /></markercategory>
+			<markercategory name="pof" displayname=" [- Path of Fire -] ">
+				<markercategory name="zones" isseparator="1" displayname=" [- Zones -]" />
+					<markercategory name="co" displayname="Crystal Oasis">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="dh" displayname="Desert Highlands">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="er" displayname="Elon Riverlands">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="des" displayname="The Desolation">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="dov" displayname="Domain of Vabbi">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+				<markercategory name="gs" isseparator="1" displayname=" [- Group Size -]" />
+				<markercategory name="hp_sm" displayname="Smaller Group" defaulttoggle="1" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" tip-description="This Is For A Smaller Group (Under 25)&#xA;• Less Commune Wait Time (15 Sec)&#xA;• Only Kill Once" />
+				<markercategory name="hp_big" displayname="Bigger Group" defaulttoggle="0" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" tip-description="This Is For A Bigger Group (Over 25)&#xA;• Longer Commune Wait Time (30 Sec)&#xA;• Double Kills Are Enabled" />
+				<markercategory name="op" isseparator="1" displayname=" [- Options -]" />
+				<markercategory name="signs" displayname="Signs" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" />
+				<markercategory name="mounts" displayname="Mount Markers" minimapvisibility="1" iconsize="1" mapvisibility="0" minSize="50" bounce="rise" bounce-height="3" bounce-duration="0.4" autotrigger="1" triggerrange="5" heightOffset="2" />
+				<markercategory name="marks" displayname="Mark Locations" minimapvisibility="1" iconsize="1" mapvisibility="0" minSize="50" bounce="rise" bounce-height="2" bounce-duration="0.2" autotrigger="1" triggerrange="5" heightOffset="2" />
+				<markercategory name="ins_warn" displayname="Instructions & Warnings" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" />
+				<markercategory name="hazards" displayname="Hazard Warning Signs" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="75" /></markercategory>
+			<markercategory name="eod" displayname=" [- End of Dragons -] ">
+				<markercategory name="zones" isseparator="1" displayname=" [- Zones -]" />
+					<markercategory name="sp" displayname="Seitung Province">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="nkc" displayname="New Kaineng City">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="as" displayname="Arborstone">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="ew" displayname="Echovald Wilds">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+					<markercategory name="de" displayname="Dragon's End">
+						<markercategory name="trails" displayname="Main Trails" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e1861a" texture="data/hp/hp_trail.png" />
+						<markercategory name="alttrails" displayname="Alternate Trails" fadenear="3000" fadefar="4000" animspeed="2" trailscale="2" minimapvisibility="1" mapvisibility="1" color="c4ff0e" texture="data/hp/hp_trail.png" />
+						<markercategory name="commtrails" displayname="Commander Trails" fadenear="3000" fadefar="4000" animspeed="3" trailscale="2" minimapvisibility="1" mapvisibility="1" color="e33a3a" texture="data/hp/hp_trail.png" /></markercategory>
+				<markercategory name="gs" isseparator="1" displayname=" [- Group Size -]" />
+				<markercategory name="hp_sm" displayname="Smaller Group" defaulttoggle="1" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" tip-description="This Is For A Smaller Group (Under 25)&#xA;• Less Commune Wait Time (15 Sec)&#xA;• Only Kill Once" />
+				<markercategory name="hp_big" displayname="Bigger Group" defaulttoggle="0" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" tip-description="This Is For A Bigger Group (Over 25)&#xA;• Longer Commune Wait Time (30 Sec)&#xA;• Double Kills Are Enabled" />
+				<markercategory name="op" isseparator="1" displayname=" [- Options -]" />
+				<markercategory name="signs" displayname="Signs" minimapvisibility="0" mapvisibility="0" iconsize="1.8" heightOffset="2" />
+				<markercategory name="mounts" displayname="Mount Markers" minimapvisibility="1" iconsize="1" mapvisibility="0" minSize="50" bounce="rise" bounce-height="3" bounce-duration="0.4" autotrigger="1" triggerrange="5" heightOffset="2" />
+				<markercategory name="marks" displayname="Mark Locations" minimapvisibility="1" iconsize="1" mapvisibility="0" minSize="50" bounce="rise" bounce-height="2" bounce-duration="0.2" autotrigger="1" triggerrange="5" heightOffset="2" />
+				<markercategory name="ins_warn" displayname="Instructions & Warnings" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="100" />
+				<markercategory name="hazards" displayname="Hazard Warning Signs" minimapvisibility="1" mapvisibility="1" iconsize="1.8" minSize="75" /></markercategory>
 		</markercategory>
 		<markercategory name="ulresfarm" displayname="Resource Farms" fadenear="5000" fadefar="5100" animspeed="0" alpha="1">
 			<markercategory name="ulbulkfarm" displayname=" [- Bulk Cooking Supplies -] ">

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<overlaydata>
+<!-- 
+██╗  ██╗███████╗██████╗  ██████╗     ██████╗  ██████╗ ██╗███╗   ██╗████████╗    ████████╗██████╗  █████╗ ██╗███╗   ██╗
+██║  ██║██╔════╝██╔══██╗██╔═══██╗    ██╔══██╗██╔═══██╗██║████╗  ██║╚══██╔══╝    ╚══██╔══╝██╔══██╗██╔══██╗██║████╗  ██║
+███████║█████╗  ██████╔╝██║   ██║    ██████╔╝██║   ██║██║██╔██╗ ██║   ██║          ██║   ██████╔╝███████║██║██╔██╗ ██║
+██╔══██║██╔══╝  ██╔══██╗██║   ██║    ██╔═══╝ ██║   ██║██║██║╚██╗██║   ██║          ██║   ██╔══██╗██╔══██║██║██║╚██╗██║
+██║  ██║███████╗██║  ██║╚██████╔╝    ██║     ╚██████╔╝██║██║ ╚████║   ██║          ██║   ██║  ██║██║  ██║██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝╚═╝  ╚═══╝   ╚═╝          ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
+ -->
+	<pois>
+	<!-- TRAILS -->
+		<trail type="ul.ulhp.eod.as.commtrails" traildata="trails/hp/eod/as-uL_comm.trl" mapid="1428" />
+		<trail type="ul.ulhp.eod.as.alttrails" traildata="trails/hp/eod/as-uL_alt.trl" mapid="1428" />
+		<trail type="ul.ulhp.eod.as.trails" traildata="trails/hp/eod/as-uL_hp.trl" mapid="1428" />
+	<!-- PORTALS -->
+	<!-- START/READY CHECK/TIMERS -->
+		<poi type="ul.ulhp.eod.signs" mapid="1428" xpos="-741.4301" ypos="9.602179" zpos="449.886" guid="ABH0gA8Yv0aaJanqb6zNZw==" iconfile="data/hp/zone_start.png" />
+	<!-- TRAIL PARTS -->	
+		<poi type="ul.ulhp.eod.signs" mapid="1428" xpos="-762.77002" ypos="9.686702" zpos="619.356812" guid="9zCbxJarrECCDZOE+OlCbA==" iconfile="data/hp/as/as_otw_back_to_ew.png" />
+	<!-- WAYPOINTS -->
+	<!-- COMPLETED/END -->
+	<!-- HERO POINTS SMALL GROUP -->
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="AZKy3PmiHEGShAGkGCKckQ==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) Starting [Tsuko Talonedge] Now! Be Sure To Tag The Mob!" copy-message="Tsuko Talonedge Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
+	<!-- HERO POINTS BIG GROUP -->
+		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="AZKy3PmiHEGShAGkGCKckQ==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) We Are Going To Do [Tsuko Talonedge] Twice. Please Help With Both To Speed Things Up!" copy-message="[BROADCAST] Tsuko Talonedge Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-777.014893" ypos="9.717897" zpos="647.828613" guid="lv997xHVKUqgUK70BE6YNA==" copy="(HP 2/7) Now Starting [Tsuko Talonedge] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Tsuko Talonedge Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="4" resetlength="3600" iconfile="data/hp/second_kill.png" />
+	<!-- MOUNTS -->
+	<!-- MARKS -->
+	<!-- SPECIAL INSTRUCTIONS -->	
+	</pois>
+</overlaydata>
