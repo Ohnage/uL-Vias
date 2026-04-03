@@ -1,4 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<!-- 
+
+888     888               888                                                                 888           888                                              888                    888     888 d8b                   
+888     888               888                                                                 888           888                                              888                    888     888 Y8P                   
+888     888               888                                                                 888           888                                              888                    888     888                       
+888     888 88888b.   .d88888  .d88b.  888d888 .d88b.  888d888 .d88b.  888  888 88888b.   .d88888           888      .d88b.   .d88b.   .d88b.  88888b.   .d88888 .d8888b            Y88b   d88P 888  8888b.  .d8888b  
+888     888 888 "88b d88" 888 d8P  Y8b 888P"  d88P"88b 888P"  d88""88b 888  888 888 "88b d88" 888           888     d8P  Y8b d88P"88b d8P  Y8b 888 "88b d88" 888 88K                 Y88b d88P  888     "88b 88K      
+888     888 888  888 888  888 88888888 888    888  888 888    888  888 888  888 888  888 888  888           888     88888888 888  888 88888888 888  888 888  888 "Y8888b.             Y88o88P   888 .d888888 "Y8888b. 
+Y88b. .d88P 888  888 Y88b 888 Y8b.     888    Y88b 888 888    Y88..88P Y88b 888 888  888 Y88b 888           888     Y8b.     Y88b 888 Y8b.     888  888 Y88b 888      X88              Y888P    888 888  888      X88 
+ "Y88888P"  888  888  "Y88888  "Y8888  888     "Y88888 888     "Y88P"   "Y88888 888  888  "Y88888           88888888 "Y8888   "Y88888  "Y8888  888  888  "Y88888  88888P'               Y8P     888 "Y888888  88888P' 
+                                                   888                                                                            888                                                                                 
+                                              Y8b d88P                                                                       Y8b d88P                                                                                 
+                                               "Y88P"                                                                         "Y88P"                       ┌────────────────────────────────────────────────────────┐  
+											                                                                                                               │                                                        │
+ a88888b.                              dP                  dP        888888ba                  .88888.  dP                                                 │      Underground Tactics, Legendary Outcomes.          │
+d8'   `88                              88                  88        88    `8b                d8'   `8b 88                                                 │             Grow as a Team, Shine as a Community.      │
+88        88d888b. .d8888b. .d8888b. d8888P .d8888b. .d888b88       a88aaaa8P' dP    dP       88     88 88d888b. 88d888b. .d8888b. .d8888b. .d8888b.       │                                                        │
+88        88'  `88 88ooood8 88'  `88   88   88ooood8 88'  `88        88   `8b. 88    88       88     88 88'  `88 88'  `88 88'  `88 88'  `88 88ooood8       │  If You Have Any Questions, Comments, Or Suggestions,  │
+Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 88.  .88       Y8.   .8P 88    88 88    88 88.  .88 88.  .88 88.  ...       │       Feel Free To Join The Discord  /QXvCbY9yY7       │
+ Y88888P' dP       `88888P' `88888P8   dP   `88888P' `88888P8        88888888P `8888P88        `8888P'  dP    dP dP    dP `88888P8 `8888P88 `88888P'       │                                                        │
+                                                                                    .88                                                 .88                └────────────────────────────────────────────────────────┘
+                                                                                d8888P                                              d8888P                                  
+-->
+<?xml version="1.0" encoding="utf-8"?>
 <overlaydata>
 <!-- 
 ███████╗██████╗ ███████╗███████╗██████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗ 
@@ -12,7 +35,7 @@
 	<!-- TRAILS -->
 	<!-- ADVENTURE GUIDE STEPS -->	
 		<poi type="ul.ulsl.sm.cag1.Heart" mapid="35" xpos="-388.9313" ypos="44.37323" zpos="-755.5725" guid="V+a7OlOTpUqpJhh3Ij6Hjg==" minimapvisibility="0" mapvisibility="0" iconsize="1.8" inGameVisibility="0" heightOffset="2" iconfile="data/sl/sl_blank.png" />
-		<poi type="ul.ulsl.sm.cag1.WP" mapid="35" xpos="-385.0429" ypos="44.40741" zpos="-749.6329" guid="vvvQtJuwy0m+OLs4Ev1zQQ==" race="asura" info="[- DON'T START HERE -]&#xA;&#xA;This Power Leveling Route Starts In Queensdale.&#xA;&#xA;Please Press [F] To Copy The Needed Waypoint And Then Paste (CTRL+V) In Chat To Get A Clickable Waypoint Link!" inforange="15" copy="Go To [&BO8AAAA=] To Start This Speed Leveling Route!" copy-message="Shaemoor Waypoint Copied" iconsize="5" autotrigger="0" triggerrange="15" fadefar="3000" fadenear="2750" minimapvisibility="0" mapvisibility="0" heightOffset="3" behavior="7" iconfile="data/sl/sl_dont-start.png" />
+		<poi type="ul.ulsl.sm.cag1.WP" mapid="35" xpos="-385.0429" ypos="44.40741" zpos="-749.6329" guid="vvvQtJuwy0m+OLs4Ev1zQQ==" race="asura" info="[- DON'T START HERE -]&#xA;This leveling route starts in Queensdale.&#xA;&#xA;Please press [F] to copy the needed waypoint and then paste [CTRL] +[V] in chat to get a clickable waypoint link!" inforange="15" copy="Continue onto [&BO8AAAA=] to start This leveling route!" copy-message="Shaemoor Waypoint copied" iconsize="5" autotrigger="0" triggerrange="15" fadefar="3000" fadenear="2750" minimapvisibility="0" mapvisibility="0" heightOffset="3" behavior="7" iconfile="data/sl/sl_dont-start.png" />
 	</pois>
 <!-- 
 ██████╗ ██╗   ██╗██╗     ██╗  ██╗    ██████╗ ███████╗███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗███████╗

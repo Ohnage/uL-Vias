@@ -3,12 +3,12 @@
 [![Game – Guild Wars 2](https://img.shields.io/badge/Game-Guild%20Wars%202-red?style=for-the-badge)](https://www.guildwars2.com/)
 
 **uL Vias** is a Blish HUD Pathing marker pack for the **Underground Legends** community and anyone else who wants high‑signal, low‑friction paths for leveling, farming, and leading organized hero point trains in Guild Wars 2.
-### Version: **v1.2.3** – **Mar 31, 2026**
+
 ---
 ## What is uL Vias?
 uL Vias is a curated set of TacO/Blish HUD markers focused on:
 
-- **Speed leveling routes** tuned for clarity and repeatability  
+- **Leveling routes** tuned for clarity and repeatability  
 - **Commander-focused Hero Point Train routes** across expansion maps  
 - **High‑value resource farms** (especially bulk cooking supplies)  
 - **Short, repeatable chest runs** for efficient looting  

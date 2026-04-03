@@ -1,4 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<!-- 
+
+888     888               888                                                                 888           888                                              888                    888     888 d8b                   
+888     888               888                                                                 888           888                                              888                    888     888 Y8P                   
+888     888               888                                                                 888           888                                              888                    888     888                       
+888     888 88888b.   .d88888  .d88b.  888d888 .d88b.  888d888 .d88b.  888  888 88888b.   .d88888           888      .d88b.   .d88b.   .d88b.  88888b.   .d88888 .d8888b            Y88b   d88P 888  8888b.  .d8888b  
+888     888 888 "88b d88" 888 d8P  Y8b 888P"  d88P"88b 888P"  d88""88b 888  888 888 "88b d88" 888           888     d8P  Y8b d88P"88b d8P  Y8b 888 "88b d88" 888 88K                 Y88b d88P  888     "88b 88K      
+888     888 888  888 888  888 88888888 888    888  888 888    888  888 888  888 888  888 888  888           888     88888888 888  888 88888888 888  888 888  888 "Y8888b.             Y88o88P   888 .d888888 "Y8888b. 
+Y88b. .d88P 888  888 Y88b 888 Y8b.     888    Y88b 888 888    Y88..88P Y88b 888 888  888 Y88b 888           888     Y8b.     Y88b 888 Y8b.     888  888 Y88b 888      X88              Y888P    888 888  888      X88 
+ "Y88888P"  888  888  "Y88888  "Y8888  888     "Y88888 888     "Y88P"   "Y88888 888  888  "Y88888           88888888 "Y8888   "Y88888  "Y8888  888  888  "Y88888  88888P'               Y8P     888 "Y888888  88888P' 
+                                                   888                                                                            888                                                                                 
+                                              Y8b d88P                                                                       Y8b d88P                                                                                 
+                                               "Y88P"                                                                         "Y88P"                       ┌────────────────────────────────────────────────────────┐  
+											                                                                                                               │                                                        │
+ a88888b.                              dP                  dP        888888ba                  .88888.  dP                                                 │      Underground Tactics, Legendary Outcomes.          │
+d8'   `88                              88                  88        88    `8b                d8'   `8b 88                                                 │             Grow as a Team, Shine as a Community.      │
+88        88d888b. .d8888b. .d8888b. d8888P .d8888b. .d888b88       a88aaaa8P' dP    dP       88     88 88d888b. 88d888b. .d8888b. .d8888b. .d8888b.       │                                                        │
+88        88'  `88 88ooood8 88'  `88   88   88ooood8 88'  `88        88   `8b. 88    88       88     88 88'  `88 88'  `88 88'  `88 88'  `88 88ooood8       │  If You Have Any Questions, Comments, Or Suggestions,  │
+Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 88.  .88       Y8.   .8P 88    88 88    88 88.  .88 88.  .88 88.  ...       │       Feel Free To Join The Discord  /QXvCbY9yY7       │
+ Y88888P' dP       `88888P' `88888P8   dP   `88888P' `88888P8        88888888P `8888P88        `8888P'  dP    dP dP    dP `88888P8 `8888P88 `88888P'       │                                                        │
+                                                                                    .88                                                 .88                └────────────────────────────────────────────────────────┘
+                                                                                d8888P                                              d8888P                                  
+-->
+<?xml version="1.0" encoding="utf-8"?>
 <overlaydata>
 <!-- 
 ██╗  ██╗███████╗██████╗  ██████╗     ██████╗  ██████╗ ██╗███╗   ██╗████████╗    ████████╗██████╗  █████╗ ██╗███╗   ██╗
@@ -21,13 +44,12 @@
 	<!-- WAYPOINTS -->
 	<!-- COMPLETED/END -->
 	<!-- HERO POINTS SMALL GROUP -->
-		<poi type="ul.ulhp.eod.hp_sm" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="AZKy3PmiHEGShAGkGCKckQ==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) Starting [Tsuko Talonedge] Now! Be Sure To Tag The Mob!" copy-message="Tsuko Talonedge Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
+		<poi type="ul.ulhp.eod.hp_sm" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="AZKy3PmiHEGShAGkGCKckQ==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) Starting [Tsuko Talonedge] now! Be sure to tag the mob!" copy-message="Tsuko Talonedge message copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
 	<!-- HERO POINTS BIG GROUP -->
-		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="o1pxuw8H8UyBhgbrnwnmjA==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) We Are Going To Do [Tsuko Talonedge] Twice. Please Help With Both To Speed Things Up!" copy-message="[BROADCAST] Tsuko Talonedge Message Copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
-		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-777.014893" ypos="9.717897" zpos="647.828613" guid="lv997xHVKUqgUK70BE6YNA==" copy="(HP 2/7) Now Starting [Tsuko Talonedge] For The Second Kill. If You Need It Be Sure To Tag It!" copy-message="Tsuko Talonedge Second Kill Message Copied" autotrigger="0" triggerrange="1" behavior="4" resetlength="3600" iconfile="data/hp/second_kill.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-780.6046" ypos="9.492034" zpos="638.0618" guid="Kq4HCMvLq0W0vkAbMeq1Kg==" bounce="rise" bounce-height="3" bounce-duration="0.7" copy="(HP 2/7) We are going to do [Tsuko Talonedge] twice. Please help with both to speed things up!" copy-message="Tsuko Talonedge message copied" autotrigger="1" triggerrange="3" iconfile="data/hp/as/as_hp_tt.png" />
+		<poi type="ul.ulhp.eod.hp_big" mapid="1428" xpos="-777.014893" ypos="9.717897" zpos="647.828613" guid="lv997xHVKUqgUK70BE6YNA==" copy="(HP 2/7) Now starting [Tsuko Talonedge] for the second kill. If you need it be sure to tag It!" copy-message="Tsuko Talonedge second kill message copied" autotrigger="0" triggerrange="1" behavior="4" resetlength="3600" iconfile="data/hp/second_kill.png" />
 	<!-- MOUNTS -->
 	<!-- MARKS -->
 	<!-- SPECIAL INSTRUCTIONS -->	
 	</pois>
 </overlaydata>
-

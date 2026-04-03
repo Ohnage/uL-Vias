@@ -1,12 +1,35 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<!-- 
+
+888     888               888                                                                 888           888                                              888                    888     888 d8b                   
+888     888               888                                                                 888           888                                              888                    888     888 Y8P                   
+888     888               888                                                                 888           888                                              888                    888     888                       
+888     888 88888b.   .d88888  .d88b.  888d888 .d88b.  888d888 .d88b.  888  888 88888b.   .d88888           888      .d88b.   .d88b.   .d88b.  88888b.   .d88888 .d8888b            Y88b   d88P 888  8888b.  .d8888b  
+888     888 888 "88b d88" 888 d8P  Y8b 888P"  d88P"88b 888P"  d88""88b 888  888 888 "88b d88" 888           888     d8P  Y8b d88P"88b d8P  Y8b 888 "88b d88" 888 88K                 Y88b d88P  888     "88b 88K      
+888     888 888  888 888  888 88888888 888    888  888 888    888  888 888  888 888  888 888  888           888     88888888 888  888 88888888 888  888 888  888 "Y8888b.             Y88o88P   888 .d888888 "Y8888b. 
+Y88b. .d88P 888  888 Y88b 888 Y8b.     888    Y88b 888 888    Y88..88P Y88b 888 888  888 Y88b 888           888     Y8b.     Y88b 888 Y8b.     888  888 Y88b 888      X88              Y888P    888 888  888      X88 
+ "Y88888P"  888  888  "Y88888  "Y8888  888     "Y88888 888     "Y88P"   "Y88888 888  888  "Y88888           88888888 "Y8888   "Y88888  "Y8888  888  888  "Y88888  88888P'               Y8P     888 "Y888888  88888P' 
+                                                   888                                                                            888                                                                                 
+                                              Y8b d88P                                                                       Y8b d88P                                                                                 
+                                               "Y88P"                                                                         "Y88P"                       ┌────────────────────────────────────────────────────────┐  
+											                                                                                                               │                                                        │
+ a88888b.                              dP                  dP        888888ba                  .88888.  dP                                                 │      Underground Tactics, Legendary Outcomes.          │
+d8'   `88                              88                  88        88    `8b                d8'   `8b 88                                                 │             Grow as a Team, Shine as a Community.      │
+88        88d888b. .d8888b. .d8888b. d8888P .d8888b. .d888b88       a88aaaa8P' dP    dP       88     88 88d888b. 88d888b. .d8888b. .d8888b. .d8888b.       │                                                        │
+88        88'  `88 88ooood8 88'  `88   88   88ooood8 88'  `88        88   `8b. 88    88       88     88 88'  `88 88'  `88 88'  `88 88'  `88 88ooood8       │  If You Have Any Questions, Comments, Or Suggestions,  │
+Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 88.  .88       Y8.   .8P 88    88 88    88 88.  .88 88.  .88 88.  ...       │       Feel Free To Join The Discord  /QXvCbY9yY7       │
+ Y88888P' dP       `88888P' `88888P8   dP   `88888P' `88888P8        88888888P `8888P88        `8888P'  dP    dP dP    dP `88888P8 `8888P88 `88888P'       │                                                        │
+                                                                                    .88                                                 .88                └────────────────────────────────────────────────────────┘
+                                                                                d8888P                                              d8888P                                  
+-->
+<?xml version="1.0" encoding="utf-8"?>
 <overlaydata>
 <!-- 
-â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•—      â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ•—  â–ˆâ–ˆâ•—    â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ•—   â–ˆâ–ˆâ–ˆâ•—
-â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â•šâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•    â–ˆâ–ˆâ•”â•â•â•â•â•â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ–ˆâ–ˆâ•— â–ˆâ–ˆâ–ˆâ–ˆâ•‘
-â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘ â•šâ–ˆâ–ˆâ–ˆâ•”â•     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•‘â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•”â–ˆâ–ˆâ–ˆâ–ˆâ•”â–ˆâ–ˆâ•‘
-â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘ â–ˆâ–ˆâ•”â–ˆâ–ˆâ•—     â–ˆâ–ˆâ•”â•â•â•  â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â•â•â–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘â•šâ–ˆâ–ˆâ•”â•â–ˆâ–ˆâ•‘
-â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ•—â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•”â• â–ˆâ–ˆâ•—    â–ˆâ–ˆâ•‘     â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘  â–ˆâ–ˆâ•‘â–ˆâ–ˆâ•‘ â•šâ•â• â–ˆâ–ˆâ•‘
-â•šâ•â•     â•šâ•â•â•â•â•â•â•â•šâ•â•  â•šâ•â•â•šâ•â•  â•šâ•â•    â•šâ•â•     â•šâ•â•  â•šâ•â•â•šâ•â•  â•šâ•â•â•šâ•â•     â•šâ•â•
+███████╗██╗      █████╗ ██╗  ██╗    ███████╗ █████╗ ██████╗ ███╗   ███╗
+██╔════╝██║     ██╔══██╗╚██╗██╔╝    ██╔════╝██╔══██╗██╔══██╗████╗ ████║
+█████╗  ██║     ███████║ ╚███╔╝     █████╗  ███████║██████╔╝██╔████╔██║
+██╔══╝  ██║     ██╔══██║ ██╔██╗     ██╔══╝  ██╔══██║██╔══██╗██║╚██╔╝██║
+██║     ███████╗██║  ██║██╔╝ ██╗    ██║     ██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
  -->
 	<pois>
 	<!-- TRAILS -->
@@ -23,7 +46,7 @@
 	<!-- ZONE START -->
 		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="-52.21876" ypos="654.3047" zpos="22.18475" guid="ufTHpx2g3UOTW+7qc4e39w==" heightOffset="1" minimapvisibility="0" iconsize="2" minSize="100" iconfile="data/farm/farm_flax_4.png" />
 	<!-- NEXT ZONE COPY -->
-		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="159.0069" ypos="766.4703" zpos="0.6763101" guid="kbZLC+Yg1kaS4HTJ9nkTjw==" autotrigger="1" triggerrange="5" heightOffset="2" minimapvisibility="0" iconsize="1" minSize="100" copy="(5) Jahai Bluffs â†’ [&BJMLAAA=]" copy-message="Fifth WP For Flax Farm Copied" iconfile="data/farm/farm_flax_5.png" />
+		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="159.0069" ypos="766.4703" zpos="0.6763101" guid="kbZLC+Yg1kaS4HTJ9nkTjw==" autotrigger="1" triggerrange="5" heightOffset="2" minimapvisibility="0" iconsize="1" minSize="100" copy="(5) → Jahai Bluffs [&BJMLAAA=]" copy-message="Fifth WP for flax farm was copied" iconfile="data/farm/farm_flax_5.png" />
 	<!-- MOUNTS -->
 		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="-45.13575" ypos="656.3886" zpos="30.64044" guid="WQxCNerlyU6PKc2tRwaGhg==" bounce="rise" bounce-height="3" bounce-duration="0.5" autotrigger="1" triggerrange="3" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_skyscale.png" />
 		<poi type="ul.ulresfarm.ulflaxfarm.bloodstone" mapid="1165" xpos="153.1207" ypos="826.244" zpos="129.8379" guid="Vutm+omEeUOJ1+VRxjWvFw==" bounce="rise" bounce-height="3" bounce-duration="0.5" autotrigger="1" triggerrange="3" heightOffset="1" minimapvisibility="0" iconsize="1" minSize="50" iconfile="data/farm/mount_skyscale.png" />
