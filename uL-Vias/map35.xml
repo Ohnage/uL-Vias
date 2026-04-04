@@ -47,10 +47,10 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
  -->
 	<pois>
 	<!-- TRAILS -->
-		<trail type="ul.ulresfarm.ulbulkfarm.hrappa" traildata="trails/res/res-uL_bulk-researcher_hrappa.trl" texture="data/farm/farm_trail.png" mapid="35" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+		<trail type="ul.ulresfarm.ulbulkfarm.lemons.hrappa" traildata="trails/res/res-uL_bulk-researcher_hrappa.trl" texture="data/farm/farm_trail.png" mapid="35" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
 	<!-- ADVENTURE GUIDE STEPS -->	
-		<poi type="ul.ulresfarm.ulbulkfarm.hrappa" mapid="35" xpos="-105.3386" ypos="22.3118" zpos="-214.8398" guid="F9oTHNXl/kqx11bXdkVUoQ==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="3" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-researcher_hrappa.png" />
-		<poi type="ul.ulresfarm.ulbulkfarm.hrappa" mapid="35" xpos="-120.0839" ypos="26.98911" zpos="-139.0447" guid="9hJMfMBYhkqZtFoA+WkADQ==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.lemons.hrappa" mapid="35" xpos="-105.3386" ypos="22.3118" zpos="-214.8398" guid="F9oTHNXl/kqx11bXdkVUoQ==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="3" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-researcher_hrappa.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.lemons.hrappa" mapid="35" xpos="-120.0839" ypos="26.98911" zpos="-139.0447" guid="9hJMfMBYhkqZtFoA+WkADQ==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
 	</pois>
 
 </overlaydata>

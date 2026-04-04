@@ -53,10 +53,10 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
  -->
 	<pois>
 	<!-- TRAILS -->
-		<trail type="ul.ulresfarm.ulbulkfarm.yoal" traildata="trails/res/res-uL_bulk-yoal.trl" texture="data/farm/farm_trail.png" mapid="34" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+		<trail type="ul.ulresfarm.ulbulkfarm.lemons.yoal" traildata="trails/res/res-uL_bulk-yoal.trl" texture="data/farm/farm_trail.png" mapid="34" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
 	<!-- ADVENTURE GUIDE STEPS -->	
-		<poi type="ul.ulresfarm.ulbulkfarm.yoal" mapid="34" xpos="414.4038" ypos="0.2748874" zpos="335.6977" guid="4qCogr32yE+bMo/cjvHmag==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-yoal.png" />
-		<poi type="ul.ulresfarm.ulbulkfarm.yoal" mapid="34" xpos="362.4915" ypos="15.63284" zpos="249.3917" guid="8C1npuigQEOaz4QIbFM04g==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.lemons.yoal" mapid="34" xpos="414.4038" ypos="0.2748874" zpos="335.6977" guid="4qCogr32yE+bMo/cjvHmag==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="4" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-yoal.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.lemons.yoal" mapid="34" xpos="362.4915" ypos="15.63284" zpos="249.3917" guid="8C1npuigQEOaz4QIbFM04g==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
 	</pois>
 
 </overlaydata>

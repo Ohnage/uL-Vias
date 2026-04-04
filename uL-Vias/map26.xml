@@ -132,10 +132,10 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
  -->
 	<pois>
 	<!-- TRAILS -->
-		<trail type="ul.ulresfarm.ulbulkfarm.disa" traildata="trails/res/res-uL_bulk-disa.trl" texture="data/farm/farm_trail.png" mapid="26" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+		<trail type="ul.ulresfarm.ulbulkfarm.almonds.disa" traildata="trails/res/res-uL_bulk-disa.trl" texture="data/farm/farm_trail.png" mapid="26" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
 	<!-- ADVENTURE GUIDE STEPS -->	
-		<poi type="ul.ulresfarm.ulbulkfarm.disa" mapid="26" xpos="-362.2935" ypos="66.7749" zpos="749.9257" guid="MBX68zo9PU2xC8IteX88DA==" iconsize="1.8" heightOffset="2.5" miniMapVisibility="1" inGameVisibility="1" mapvisibility="1" iconfile="data/farm/farm_bulk-disa.png" />
-		<poi type="ul.ulresfarm.ulbulkfarm.disa" mapid="26" xpos="-295.2194" ypos="59.66348" zpos="742.5601" guid="25VZiNuQIkWB6S/8UGw/cA==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.almonds.disa" mapid="26" xpos="-362.2935" ypos="66.7749" zpos="749.9257" guid="MBX68zo9PU2xC8IteX88DA==" iconsize="1.8" heightOffset="2.5" miniMapVisibility="1" inGameVisibility="1" mapvisibility="1" iconfile="data/farm/farm_bulk-disa.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.almonds.disa" mapid="26" xpos="-295.2194" ypos="59.66348" zpos="742.5601" guid="25VZiNuQIkWB6S/8UGw/cA==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="2" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
 	</pois>
 </overlaydata>
 
