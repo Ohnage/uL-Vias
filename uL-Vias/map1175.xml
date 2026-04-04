@@ -33,10 +33,10 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
  -->
 	<pois>
 	<!-- TRAILS -->
-		<trail type="ul.ulresfarm.ulbulkfarm.hernandez" traildata="trails/res/res-uL_bulk-deputy_vice_chief_hernandez.trl" texture="data/farm/farm_trail.png" mapid="1175" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
+		<trail type="ul.ulresfarm.ulbulkfarm.blackbeans.hernandez" traildata="trails/res/res-uL_bulk-deputy_vice_chief_hernandez.trl" texture="data/farm/farm_trail.png" mapid="1175" fadenear="3000" fadefar="4000" animspeed="1" trailscale="2" minimapvisibility="1" mapvisibility="1" color="b48962" />
 	<!-- ADVENTURE GUIDE STEPS -->	
-		<poi type="ul.ulresfarm.ulbulkfarm.hernandez" mapid="1175" xpos="-651.1506" ypos="16.4068" zpos="-642.6166" guid="1jityYwE/kKO/V2VuZ8Yug==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="3.7" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-deputy_vice_chief_hernandez.png" />
-		<poi type="ul.ulresfarm.ulbulkfarm.hernandez" mapid="1175" xpos="-618.4558" ypos="1.672729" zpos="-511.4174" guid="RZVT3F2xlESKBjm90tBrCw==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="1.5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.blackbeans.hernandez" mapid="1175" xpos="-651.1506" ypos="16.4068" zpos="-642.6166" guid="1jityYwE/kKO/V2VuZ8Yug==" fadefar="3000" fadenear="2750" iconsize="1.8" heightOffset="3.7" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk-deputy_vice_chief_hernandez.png" />
+		<poi type="ul.ulresfarm.ulbulkfarm.blackbeans.hernandez" mapid="1175" xpos="-618.4558" ypos="1.672729" zpos="-511.4174" guid="RZVT3F2xlESKBjm90tBrCw==" fadefar="3000" fadenear="2750" bounce="rise" bounce-height="2" bounce-duration="0.5" iconsize="1.8" triggerrange="5" heightOffset="1.5" miniMapVisibility="0" inGameVisibility="1" mapvisibility="0" iconfile="data/farm/farm_bulk.png" />
 	</pois>
 </overlaydata>
 

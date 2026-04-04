@@ -30,7 +30,7 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
 			<markercategory name="web" isseparator="1" displayname=" [-  Created By: Ohnage  -] " copy="/friend Ohnage.1638" copy-message="Chat command to add Ohnage to your friends copied!" tip-description="Copy chat command to add Ohnage to your in-game friends list to ask or share directly!" />
 			<markercategory name="thanks" isseparator="1" displayname=" [-     Special Thanks    -] " tip-description="Big thanks to those who helped make this project what it has become!&#xA;&#xA;• Fataleiga&#xA;• Mestiak&#xA;• Feesh&#xA;• QuitarHero" />
 		</markercategory>
-		<markercategory name="ulsl" displayname="leveling">
+		<markercategory name="ulsl" displayname="Speed Leveling">
 			<markercategory name="sm" displayname=" [- Shiverpeak Mountains -] ">
 				<markercategory name="settings" isseparator="1" displayname=" [- Settings -]" />
 				<markercategory name="tut" displayname="Tutorial (WIP)" tip-description="Enable/Disable the Tutorial located in Queensdale&#xA;&#xA;This is not complete and is currently a work in progress." />
@@ -152,8 +152,8 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
 				<markercategory name="blackbeans" displayname="Black Beans in Bulk" isseparator="1">
 					<markercategory name="leius" displayname="Gendarran Fields" isseparator="1" copy="Talk To Field Medic Leius, North of [&BIwBAAA=]" copy-message="Waypoint copied" tip-description="Copy Talajian Waypoint To Purchase Black Beans in Bulk" />
 					<markercategory name="jenks2" displayname="Kessex Hills" isseparator="1" copy="Talk To Deputy Jenks, NE of [&BBMAAAA=]" copy-message="Waypoint copied" tip-description="Copy Overlake Haven Waypoint To Purchase Black Beans in Bulk" />
+					<markercategory name="hernandez" displayname="Ember Bay" isseparator="1" copy="Talk To Vice Chief Hernandez, South of [&BHgJAAA=]" copy-message="Waypoint copied" tip-description="Copy Castaway Circus Waypoint To Purchase Black Beans in Bulk" />
 				</markercategory>
-				<markercategory name="hernandez" displayname="Black Beans in Bulk" isseparator="1" copy="Talk To Vice Chief Hernandez, South of [&BHgJAAA=]" copy-message="Waypoint copied" tip-description="Copy Castaway Circus Waypoint To Purchase Black Beans in Bulk" />
 				<markercategory name="buttermilk" displayname="Buttermilk in Bulk" isseparator="1">
 					<markercategory name="bhia7" displayname="Maker's Terrace" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint copied" tip-description="Copy Reckoner's Waypoint To Purchase Buttermilk in Bulk" />
 					<markercategory name="veska" displayname="Diessa Plateau" isseparator="1" copy="Talk To Veska Bladesinger, SW of [&BGABAAA=]" copy-message="Waypoint copied" tip-description="Copy Charradis Estate Waypoint To Purchase Buttermilk in Bulk" />
@@ -161,8 +161,9 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
 				<markercategory name="book4" displayname="Celery Stalks in Bulk" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Celery Stalks in Bulk" />
 				<markercategory name="bhia" displayname="Cheese Wedges in Bulk" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint copied" tip-description="Copy Reckoner's Waypoint To Purchase Cheese Wedges in Bulk" />
 				<markercategory name="cherries" displayname="Cherries in Bulk" isseparator="1">
-					<markercategory name="disa2" displayname="Dredgehaunt Cliffs" isseparator="1" copy="Talk To Disa, West of [&BGQCAAA=]" copy-message="Waypoint copied" tip-description="Copy Travelen's Waypoint To Purchase Cherries in Bulk" /></markercategory>
+					<markercategory name="disa2" displayname="Dredgehaunt Cliffs" isseparator="1" copy="Talk To Disa, West of [&BGQCAAA=]" copy-message="Waypoint copied" tip-description="Copy Travelen's Waypoint To Purchase Cherries in Bulk" />
 					<markercategory name="summers" displayname="Iron Marches" isseparator="1" copy="Talk To Lieutenant Summers, North of [&BKoAAAA=]" copy-message="Waypoint copied" tip-description="Copy Nightguard Waypoint To Purchase Cherries in Bulk" />
+				</markercategory>
 				<markercategory name="naknar" displayname="Chickpeas in Bulk" isseparator="1" copy="Talk To Naknar, West of [&BO8BAAA=]" copy-message="Waypoint copied" tip-description="Copy Grostogg's Kraal Waypoint To Purchase Chickpeas in Bulk" />
 				<markercategory name="coconuts" displayname="Coconuts in Bulk" isseparator="1">
 					<markercategory name="tunnira" displayname="Bloodtide Coast" isseparator="1" copy="Talk To Lionscout Tunnira, SW of [&BKMBAAA=]" copy-message="Waypoint copied" tip-description="Copy Archen Foreland Waypoint To Purchase Coconuts in Bulk" />
@@ -174,7 +175,7 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
 				</markercategory>
 				<markercategory name="jenrys" displayname="Eggplants in Bulk" isseparator="1" copy="Talk To Environmental Activist Jenrys, North of [&BNUCAAA=]" copy-message="Waypoint copied" tip-description="Copy Judgment Waypoint To Purchase Eggplants in Bulk" />
 				<markercategory name="book6" displayname="Green Beans in Bulk" isseparator="1" copy="Talk To Milton Book, North of [&BOMAAAA=]" copy-message="Waypoint copied" tip-description="Copy Cornucopian Fields Waypoint To Purchase Green Beans in Bulk" />
-				<markercategory name="bhia3" displayname="Ginger Root in Bulk" isseparator="1" ccopy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint copied" tip-description="Copy Reckoner's Waypoint To Purchase Ginger Root in Bulk" />
+				<markercategory name="bhia3" displayname="Ginger Root in Bulk" isseparator="1" copy="Talk To Bhia, East of [&BLsEAAA=]" copy-message="Waypoint copied" tip-description="Copy Reckoner's Waypoint To Purchase Ginger Root in Bulk" />
 				<markercategory name="horseradishroot" displayname="Horseradish Root in Bulk" isseparator="1">
 					<markercategory name="wupwup" displayname="Fireheart Rise" isseparator="1" copy="Talk To Wupwup Chief, South of [&BB0CAAA=]" copy-message="Waypoint copied" tip-description="Copy Apostate Waypoint To Purchase Horseradish Root in Bulk" />
 					<markercategory name="laudren" displayname="Sparkfly Fen" isseparator="1" copy="Talk To Laudren, West of [&BE0DAAA=]" copy-message="Waypoint copied" tip-description="Copy Dryground Village Waypoint To Purchase Horseradish Root in Bulk" />
