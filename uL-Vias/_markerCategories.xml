@@ -24,7 +24,7 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
 <?xml version="1.0" encoding="utf-8"?>
 <overlaydata>
 	<markercategory name="ul" displayname=" [- uL Vias -] ">
-		<markercategory name="ver" isseparator="1" displayname=" [- uL Vias - Apr 3 2026- v2.2.0 -] ">
+		<markercategory name="ver" isseparator="1" displayname=" [- uL Vias - Apr 3 2026- v2.2.1 -] ">
 			<markercategory name="dev" isseparator="1" displayname=" [- Underground Legends -] " />
 			<markercategory name="disc" isseparator="1" displayname=" [-  Join The uL Discord  -] " copy="https://discord.gg/QXvCbY9yY7" copy-message="The uL discord link was copied!" tip-description="Copy the link to join the ul discord & submit questions, comments, or suggestions!" />
 			<markercategory name="web" isseparator="1" displayname=" [-  Created By: Ohnage  -] " copy="/friend Ohnage.1638" copy-message="Chat command to add Ohnage to your friends copied!" tip-description="Copy chat command to add Ohnage to your in-game friends list to ask or share directly!" />
