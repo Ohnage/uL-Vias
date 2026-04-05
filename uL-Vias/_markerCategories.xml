@@ -24,7 +24,7 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
 <?xml version="1.0" encoding="utf-8"?>
 <overlaydata>
 	<markercategory name="ul" displayname=" [- uL Vias -] ">
-		<markercategory name="ver" isseparator="1" displayname=" [- uL Vias - Apr 4 2026- v2.2.4 -] ">
+		<markercategory name="ver" isseparator="1" displayname=" [- uL Vias - Apr 5 2026- v2.2.5 -] ">
 			<markercategory name="dev" isseparator="1" displayname=" [- Underground Legends -] " />
 			<markercategory name="disc" isseparator="1" displayname=" [-  Join The uL Discord  -] " copy="https://discord.gg/QXvCbY9yY7" copy-message="The uL discord link was copied!" tip-description="Copy the link to join the ul discord & submit questions, comments, or suggestions!" />
 			<markercategory name="web" isseparator="1" displayname=" [-  Created By: Ohnage  -] " copy="/friend Ohnage.1638" copy-message="Chat command to add Ohnage to your friends copied!" tip-description="Copy chat command to add Ohnage to your in-game friends list to ask or share directly!" />
@@ -38,6 +38,7 @@ Y8.   .88 88       88.  ... 88.  .88   88   88.  ... 88.  .88        88    .88 8
 				<markercategory name="dmgtype" displayname="Select Damage Type" tip-description="Select whether you will be leveling as Power or Condition Damage&#xA;&#xA;(This effects the Trading Post messages)">
 					<markercategory name="power" displayname="Power Damage" tip-description="Select if you plan to level using power damage (recomended)" />
 					<markercategory name="condi" displayname="Condition Damage" defaulttoggle="0" tip-description="Select if you plan to level using condition damage" /></markercategory>
+				<markercategory name="Start" displayname="Start" tip-description="Queensdale starting trail. Follow this trail to begin Underground Legends leveling." />
 				<markercategory name="volumes" isseparator="1" displayname=" [- Volumes -]" />
 				<markercategory name="cag1" displayname="Volume One" />
 				<markercategory name="cag2" displayname="Volume Two" />

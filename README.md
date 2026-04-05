@@ -55,6 +55,8 @@ A structured leveling trail in Shiverpeak Mountains with:
 - **Damage‑type aware trading post hints**  
   - Toggle whether you’re leveling as **Power** or **Condition Damage**.  
   - This choice influences the **Trading Post messaging** baked into the route so recommendations line up with your build plan.  
+- **Start (Queensdale)**  
+  - Starting trail marker to begin the leveling route from Queensdale.  
 - **Volumes 1–5**  
   - The trail is split into **Volumes One–Five**, making it easy to run in chunks or repeat your favorite segments.  
 
@@ -132,6 +134,18 @@ You’ll need:
 
 ---
 ## How to use in Blish HUD
+### Menu order and “Smart Categories”
+Blish Pathing’s default **Enable Smart Categories** option hides categories that have no markers or trails on your **current map** and can **reorder** items in the category tree (including section headers and volume order). That behavior comes from Blish, not from mistakes in this pack’s `markerCategories.xml`.
+
+- **For the full checklist-style layout** (Settings block → Tutorial → Extra Steps → Damage Type → **Start** (Queensdale) → Volumes 1–5): open **Blish HUD → Pathing → settings → Pack** and turn **off** **Enable Smart Categories**.
+- Leave it **on** if you want a shorter menu that only shows categories relevant to the map you are on (order may look “scrambled” compared to TacO or this README).
+
+**Discord / release-note blurb (copy-paste):**
+
+> **Blish HUD:** If **Speed Leveling → Shiverpeak Mountains** looks scrambled, open **Blish HUD → Pathing → Pack settings** and **disable “Enable Smart Categories.”** That option hides empty-on-this-map categories and reorders the menu; the pack’s category file order is intentional. Turn it off for the full ordered checklist.
+
+**Quick verify:** With Smart Categories **off**, drill into **uL Vias → Speed Leveling → Shiverpeak Mountains** and confirm headers and volumes match the intended order. Turn it **on** again to see the shorter, map-filtered list.
+
 1. Make sure **Pathing** is enabled.  
 2. In Blish HUD’s Pathing UI, open the **markers list**.  
 3. Look for **uL Vias** (or your configured pack name).  
@@ -145,6 +159,7 @@ Use the in‑game toggles for:
 - Turning the **Tutorial** on/off  
 - Enabling **Extra Steps [Map]** overlays  
 - Choosing **Power** vs **Condition Damage** leveling mode  
+- Turning the **Start** trail on/off (Queensdale beginning)  
 
 ---
 ## Roadmap
